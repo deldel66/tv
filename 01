@@ -43,7 +43,6 @@ https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIRIA TV
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/h9yh1nr/lina.png" group-title="|DZ|🇩🇿 ALGERIE",LINA #EXTM3U
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INT
