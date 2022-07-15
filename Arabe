@@ -35,8 +35,6 @@ https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="|DZ|🇩🇿 ALGERIE",ALANIS TV
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/H4N2sNS/cna.png" group-title="|DZ|🇩🇿 ALGERIE",CNA
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS
