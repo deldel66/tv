@@ -68,7 +68,6 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA|🇲🇦 MAROC",MEDI 1 AR
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTM3U
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
