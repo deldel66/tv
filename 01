@@ -84,8 +84,6 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="|AR|🇸🇦 ARABE",MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="|AR|🇸🇦 ARABE",MBC5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="|AR|🇸🇦 ARABE",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:0 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="|AR|🇸🇦 ARABE",MBC Drama+
