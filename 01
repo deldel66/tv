@@ -59,7 +59,7 @@ http://38.242.252.41:25461/live/0rIaScj8wR/FJlNoQFZCL/6.m3u8?token=GUELBRJdEllEU
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
-https://iptv.elahmad.net/https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/0.m3u8
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/0.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
