@@ -55,9 +55,6 @@ https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
 http://38.242.252.41:25461/live/0rIaScj8wR/FJlNoQFZCL/6.m3u8?token=GUELBRJdEllEUlxcBFRVAARXVwNWAlJVXQEPA1ZRUFAHUgcABVMIUgIVSRpERkQGA1hsDAJGX1UUFUxAVUI+CgZBWUZTBxJPREMMVVIQDFNOF0MMAkZfQQ4BCQcSHEMGGhcGFg9UXDwCUhNRVFcUWQxAXwlKRgoNZ1NcXlFeBUFYQVJGTRdZEBYVX1ZCXlpPQFdaERQFEQYaDVdGXFxNQQEMFgoVR0lBXBUnfRUeFAYaQVYLFQ0KDRoNG14DRVlBTkEKFz5HVRASRQBZWldEQVgXA0dKRggCQGhaXF5eBAAWCgwKEhcKQVMHVRobEFsMDFxHChQ7FQpcFQMRBgZYW0Ae
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/0.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
@@ -79,12 +76,12 @@ https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIRIA TV
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="|AR|🇸🇦 ARABE",MBC1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/6-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC2
 http://multies.xyz:8000/live/22.-8.-..MbC-2-MAx-AcT....-Visit--Multies.Net/uIdoXn3vak/1889.m3u8
-
-
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/17-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/71-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC4
