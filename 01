@@ -29,7 +29,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV V2
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
@@ -51,10 +51,12 @@ https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS
 https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS V2
 http://38.242.252.41:25461/live/0rIaScj8wR/FJlNoQFZCL/6.m3u8?token=GUELBRJdEllEUlxcBFRVAARXVwNWAlJVXQEPA1ZRUFAHUgcABVMIUgIVSRpERkQGA1hsDAJGX1UUFUxAVUI+CgZBWUZTBxJPREMMVVIQDFNOF0MMAkZfQQ4BCQcSHEMGGhcGFg9UXDwCUhNRVFcUWQxAXwlKRgoNZ1NcXlFeBUFYQVJGTRdZEBYVX1ZCXlpPQFdaERQFEQYaDVdGXFxNQQEMFgoVR0lBXBUnfRUeFAYaQVYLFQ0KDRoNG14DRVlBTkEKFz5HVRASRQBZWldEQVgXA0dKRggCQGhaXF5eBAAWCgwKEhcKQVMHVRobEFsMDFxHChQ7FQpcFQMRBgZYW0Ae
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV V2
+http://192.34.153.36:7777/Echorouk_HD/Echorouk_High.m3u8?user=sgls540839&session=babbdff54d32eca332c7528cc282f56f973025cc01d09b08cd88dc798b8423d1140b148cb6ec0d91&hlsid=HTTP_ID_356
 #EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
@@ -65,6 +67,8 @@ https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV
 https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV v2
+http://elahmad.ipslow.com:8080/tv34_www.elahmad.com_samira_tv/tracks-v1a1/mono.m3u8?token=650b981aa4301de7a06ca17f497edbabc22ae4bf-41a8e4b3c89ab72a08460390a6b69014-1661972195-1661961395
 #EXTINF:0 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="|DZ|🇩🇿 ALGERIE",EL HEDDAF TV
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="|DZ|🇩🇿 ALGERIE",EL FADRJ TV
