@@ -120,11 +120,13 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49685
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 PREMIUM SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49386
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3682
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/73
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 FR
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47302
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 FR
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3680
+#EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/Canal%2B_Sport#/media/Fichier:Canal+_Sport_(2013).svg" group-title="|SP|⚽️ BEIN",CANAL+ sporte
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50145
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
