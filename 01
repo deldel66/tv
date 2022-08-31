@@ -88,16 +88,15 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://d9d7p2wwkxmgdzhd.cdnexpress23.net:8443/hls/egj6uf4ei.m3u8?s=DvHUHZCk8cfefVZ7QR4Tsw&e=1661964898
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/71-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC4
 https://d9d7p2wwkxmgdzhd.cdnexpress23.net:8443/hls/egj6uf4ei.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="|AR|🇸🇦 ARABE",MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="|AR|🇸🇦 ARABE",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:0 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="|AR|🇸🇦 ARABE",MBC Drama+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="|AR|🇸🇦 ARABE",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01
 http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/86607?checkedby:iptvcat.com
