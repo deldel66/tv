@@ -95,26 +95,33 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="|AR|🇸🇦 ARABE",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 01
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 01
 http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/86607?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 01 SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 01 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3244
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 02 SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 02 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3245
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 03 SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 03 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3246
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 04 SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 04 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3247
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/BS5.svg/revision/latest?cb=20200107204133" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 05 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49383
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 06 SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 06 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49384
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 07 SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 07 SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49385
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 01 PREMIUM SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 01 PREMIUM SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49685
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SPORT|🇸🇦 BEIN",BEIN SPORTS 02 PREMIUM SD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 02 PREMIUM SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49386
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 01 FR
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3682
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 02 FR
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47302
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|🇸🇦 BEIN",BEIN SPORTS 03 FR
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3680
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
 https://s13.tntendirect.com/tf1/live/playlist.m3u8
