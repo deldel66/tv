@@ -159,9 +159,9 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50145
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
-https://s13.tntendirect.com/tf1/live/playlist.m3u8
+http://gratuittv.free.fr/Files/tf1/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
-https://s13.tntendirect.com/hd1/live/playlist.m3u8
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 https://s13.tntendirect.com/france2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
@@ -171,7 +171,7 @@ https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOEAs79Qg22t5v-ks6l
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
 https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
-https://s13.tntendirect.com/m6/live/playlist.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
