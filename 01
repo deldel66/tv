@@ -46,6 +46,8 @@ https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 EDHAKIRA
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV HD
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV
 https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV
@@ -111,13 +113,10 @@ http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59307
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59308
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59309
-
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59310
-
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59311
-
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59312
 #EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 1 HD
@@ -164,7 +163,9 @@ http://gratuittv.free.fr/Files/tf1/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
-https://s13.tntendirect.com/france2/live/playlist.m3u8
+https://s15.tntendirect.com/france2/live/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
+https://s15.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=64113&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6MTg6MzAgQU0maGFzaF92YWx1ZT1nb1hKYVlqMk1QenVsd3NNb3dTZ1JRPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 https://s13.tntendirect.com/france3/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
