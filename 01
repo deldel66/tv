@@ -30,6 +30,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV HD
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 ALGERIE HD
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="|DZ|🇩🇿 ALGERIE",TV4 ALGERIE HD
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE
@@ -80,8 +86,7 @@ https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIRIA TV
 https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE SD
-https://gintna100.tulix.tv/gin_live/canalalgerie/0d292a4e81aa08deaf8a3c1559501d5a/63236b7e/index.m3u8
+
 
 
 
@@ -163,7 +168,7 @@ http://gratuittv.free.fr/Files/tf1/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
-https://s15.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=64113&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6MTg6MzAgQU0maGFzaF92YWx1ZT1nb1hKYVlqMk1QenVsd3NNb3dTZ1JRPT0mdmFsaWRtaW51dGVzPTMw
+https://s15.tntendirect.com/france2/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 https://cdn.mmsiptv.com/live/france3/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
@@ -173,22 +178,21 @@ https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
-https://s12.tntendirect.com/arte/live/chunks.m3u8?nimblesessionid=823810&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6NTA6MzIgQU0maGFzaF92YWx1ZT13MkRkMGk0RjJoMVVDZnVyVmROb3BnPT0mdmFsaWRtaW51dGVzPTMw
+https://s12.tntendirect.com/arte/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
 https://stream-04.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMkrgz6ATo7bjjAr_4MJ8QRO4hGTEaxJrioHgZD6LLWL)/p/dm/3/x5gv5rr/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
-https://s12.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=823789&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6NDM6NTMgQU0maGFzaF92YWx1ZT1JankzRmZvL3pxdDZQczJ5RU02d1p3PT0mdmFsaWRtaW51dGVzPTMw
+https://s12.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
-https://s12.tntendirect.com/tmc/live/chunks.m3u8?nimblesessionid=823817&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6NTI6MDggQU0maGFzaF92YWx1ZT1tZmtVNkYzRjlZMmlHbDhveEM4OUlRPT0mdmFsaWRtaW51dGVzPTMw
+https://s12.tntendirect.com/tmc/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/NRJ_12_logo_2015.svg" group-title="|FR|🇫🇷 FRANCE",NRJ 12
-https://s14.tntendirect.com/nrj12/live/chunks.m3u8?nimblesessionid=66224&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6NTI6MzIgQU0maGFzaF92YWx1ZT1GdFhWUk5RU3c4L0ZNa0x3UEh6OWtBPT0mdmFsaWRtaW51dGVzPTMw
+https://s14.tntendirect.com/nrj12/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/CStar#/media/Fichier:Logo_projet_CStar.svg" group-title="|FR|🇫🇷 FRANCE",CStar
-https://s15.tntendirect.com/d17/live/chunks.m3u8?nimblesessionid=64235&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6NTM6MDkgQU0maGFzaF92YWx1ZT1YWWVWWE9jUG5QcUc5d1hURXJiQ3ZBPT0mdmFsaWRtaW51dGVzPTMw
+https://s15.tntendirect.com/d17/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static1.ozap.com/articles/5/50/43/55/@/4525580-logo-de-6ter-article_media_image-1.png" group-title="|FR|🇫🇷 FRANCE",6ter
-https://s12.tntendirect.com/6ter/live/chunks.m3u8?nimblesessionid=823824&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6NTU6NTQgQU0maGFzaF92YWx1ZT1tK293UDY3aENvWit1ajhDaFJlRlhnPT0mdmFsaWRtaW51dGVzPTMw
+https://s12.tntendirect.com/6ter/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
-https://s14.tntendirect.com/cherie25/live/chunks.m3u8?nimblesessionid=66269&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDk6MDU6MDEgQU0maGFzaF92YWx1ZT1VM2dCK0x2SzMrbUNQYzIybFF2T2VnPT0mdmFsaWRtaW51dGVzPTMw
-
+https://s14.tntendirect.com/cherie25/live/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
