@@ -97,9 +97,8 @@ http://multies.xyz:8000/live/22.-8.-..MbC-2-MAx-AcT....-Visit--Multies.Net/uIdoX
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/17-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/71-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC4
-https://d9d7p2wwkxmgdzhd.cdnexpress23.net:8443/hls/egj6uf4ei.m3u8?s=DvHUHZCk8cfefVZ7QR4Tsw&e=1661964898
-#EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/71-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC4
-https://d9d7p2wwkxmgdzhd.cdnexpress23.net:8443/hls/egj6uf4ei.m3u8
+http://185.51.214.228:8081/Apple/101065/.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="|AR|🇸🇦 ARABE",MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="|AR|🇸🇦 ARABE",MBC Drama
@@ -108,6 +107,10 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="|AR|🇸🇦 ARABE",MBC Bollywood
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="|AR|🇸🇦 ARABE",mbc masr
+https://list.iptvcat.com/my_list/s/530d3b9c51315919308896477f57b0a3.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="|AR|🇸🇦 ARABE",mbc masr 2
+https://list.iptvcat.com/my_list/s/13b5e89e4f0d90083e36a52922b2f179.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
@@ -165,7 +168,7 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50145
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
 http://gratuittv.free.fr/Files/tf1/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 http://gratuittv.free.fr/Files/france2/live/playlist.m3u8
@@ -188,7 +191,9 @@ https://stream-04.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMkrgz6ATo7bjjAr_4
 #EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
 https://s12.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
-https://s12.tntendirect.com/tmc/live/chunks.m3u8
+http://gratuittv.free.fr/Files/tmc/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TFX_2018.svg" group-title="|FR|🇫🇷 FRANCE",TFX
+http://gratuittv.free.fr/Files/tfx/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/NRJ_12_logo_2015.svg" group-title="|FR|🇫🇷 FRANCE",NRJ 12
 https://s14.tntendirect.com/nrj12/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/CStar#/media/Fichier:Logo_projet_CStar.svg" group-title="|FR|🇫🇷 FRANCE",CStar
@@ -197,6 +202,8 @@ https://s15.tntendirect.com/d17/live/chunks.m3u8
 https://s12.tntendirect.com/6ter/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
 https://s14.tntendirect.com/cherie25/live/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
+http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
