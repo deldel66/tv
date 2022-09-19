@@ -163,11 +163,9 @@ http://gratuittv.free.fr/Files/tf1/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
-https://s15.tntendirect.com/france2/live/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 https://s15.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=64113&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDg6MTg6MzAgQU0maGFzaF92YWx1ZT1nb1hKYVlqMk1QenVsd3NNb3dTZ1JRPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
-https://s13.tntendirect.com/france3/live/playlist.m3u8
+https://cdn.mmsiptv.com/live/france3/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
 https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOEAs79Qg22t5v-ks6lKFTmrMRfDq9MiJLErXyzQzIQvU)/p/dm/3/x5gv6be/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
@@ -177,7 +175,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
-https://s13.tntendirect.com/d8/live/playlist.m3u8
+https://stream-04.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMkrgz6ATo7bjjAr_4MJ8QRO4hGTEaxJrioHgZD6LLWL)/p/dm/3/x5gv5rr/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
 https://s13.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
