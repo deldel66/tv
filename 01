@@ -114,6 +114,11 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="|AR|🇸🇦 ARABE",MBC Action
 http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=1b28e35d55087c1df69144c549220dc5d9c0bfd8-e2c3deec437be08c0a1e6d75974de60a-1663696415-1663685615
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/MBC_Max_2010_logo.svg" group-title="|AR|🇸🇦 ARABE",MBC Max
+http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Cinema
+https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
