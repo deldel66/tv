@@ -206,10 +206,10 @@ http://red.ipfox.org:8080/osama2022/osama2023/49219?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
-https://s12.tntendirect.com/arte/live/chunks.m3u8
+https://arte-cmafhls.akamaized.net/am/cmaf/104000/104800/104871-004-A/220913161715/medias/104871-004-A_v720.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
-https://stream-04.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOMkrgz6ATo7bjjAr_4MJ8QRO4hGTEaxJrioHgZD6LLWL)/p/dm/3/x5gv5rr/d/live-4.m3u8
+https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOG-0iiqkrAvD_sjvmayfYNOAmZmXTbsoRci0AxTYaJ7p)/p/dm/3/x5idx4k/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
 https://s12.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
