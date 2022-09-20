@@ -93,11 +93,11 @@ https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="|AR|🇸🇦 ARABE",MBC1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/6-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC2
-http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=6304b9362e7833f37f9018bb29f53cc6e63c46fc-7e901cb095aa2eba6fe14277c8ead96a-1663696146-1663685346
+http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/17-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/71-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC4
-http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_4/tracks-v1a1/mono.m3u8?token=87cb53df4e55612e70d05ff0e7fda4b55ca0c6b3-5a2a423180885a69cea82e2e42f44ea3-1663695942-1663685142
+http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_4/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="|AR|🇸🇦 ARABE",MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="|AR|🇸🇦 ARABE",MBC Drama
@@ -113,16 +113,30 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="|AR|🇸🇦 ARABE",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="|AR|🇸🇦 ARABE",MBC Action
-http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8?token=1b28e35d55087c1df69144c549220dc5d9c0bfd8-e2c3deec437be08c0a1e6d75974de60a-1663696415-1663685615
+http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/MBC_Max_2010_logo.svg" group-title="|AR|🇸🇦 ARABE",MBC Max
 http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Cinema
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Aflam
+https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="|AR|🇸🇦 ARABE",Rotana Comidy
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
+#EXTINF:0 tvg-logo="https://e.top4top.io/p_2221djkzf0.png" group-title="|AR|🇸🇦 ARABE",Rotana Drama
+https://ssc-1-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" group-title="|AR|🇸🇦 ARABE",Rotana Classic
+https://ssc-1-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIsp5l4YwCa3gGTi2qpj1nmbRaClG2VAeeOPYv2UwAsn8aNI6b8NNvoJbblweQJa4bEs&usqp=CAU" group-title="|AR|🇸🇦 ARABE",Rotana +
+https://ssc-1-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png" group-title="|AR|🇸🇦 ARABE",Rotana Kids
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/68/d9/00/68d900dcf01db80e6b28eb3ccb9fcb06.jpg" group-title="|AR|🇸🇦 ARABE",Rotana Khalijia
+https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59307
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 HD
