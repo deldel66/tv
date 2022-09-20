@@ -181,7 +181,7 @@ http://gratuittv.free.fr/Files/france4/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
 https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOEAs79Qg22t5v-ks6lKFTmrMRfDq9MiJLErXyzQzIQvU)/p/dm/3/x5gv6be/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
-http://gratuittv.free.fr/Files/france5/live/playlist.m3u8
+http://red.ipfox.org:8080/osama2022/osama2023/49219?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
