@@ -196,8 +196,8 @@ http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 http://red.ipfox.org:8080/osama2022/osama2023/49221?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 https://cdn.mmsiptv.com/live/france3/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
-http://gratuittv.free.fr/Files/france4/live/playlist.m3u8
+""#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
+http://gratuittv.free.fr/Files/france4/live/playlist.m3u8""
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
@@ -206,12 +206,12 @@ http://red.ipfox.org:8080/osama2022/osama2023/49219?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
-https://arte-cmafhls.akamaized.net/am/cmaf/104000/104800/104871-004-A/220913161715/medias/104871-004-A_v432.m3u8
+http://213.202.225.29:25461/live/531024320/journalsat/143.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
 https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOG-0iiqkrAvD_sjvmayfYNOAmZmXTbsoRci0AxTYaJ7p)/p/dm/3/x5idx4k/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
-https://s12.tntendirect.com/w9/live/chunks.m3u8
+http://213.202.225.29:25461/live/531024320/journalsat/67.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
 http://gratuittv.free.fr/Files/tmc/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TFX_2018.svg" group-title="|FR|🇫🇷 FRANCE",TFX
