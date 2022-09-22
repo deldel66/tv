@@ -238,7 +238,7 @@ http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
-https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOIwgcvxj2EQA5kqOViPWkv40zWsvoDbFS5CblOk6ehQX)/p/dm/3/x5idxxp/s/live-4.m3u8
+http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
 https://sv0.data-stream.top/hls/lci.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
