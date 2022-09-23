@@ -126,6 +126,8 @@ http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8
 http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Cinema
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Cinema Ksa
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Aflam
 https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="|AR|🇸🇦 ARABE",Rotana Comidy
@@ -217,7 +219,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://213.202.225.29:25461/live/531024320/journalsat/143.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
-https://stream-01.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOG-0iiqkrAvD_sjvmayfYNOAmZmXTbsoRci0AxTYaJ7p)/p/dm/3/x5idx4k/d/live-4.m3u8
+https://stream-03.dc3.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLyvMHck8EA8WqgYCbLfMb_cO69BWur8_njQbqDwrq3Z)/p/dm/3/x5gv5rr/d/live-3.m3u8
 #EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
 http://213.202.225.29:25461/live/531024320/journalsat/67.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
