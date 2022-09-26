@@ -235,6 +235,9 @@ https://s14.tntendirect.com/nrj12/live/chunks.m3u8
 https://s15.tntendirect.com/d17/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static1.ozap.com/articles/5/50/43/55/@/4525580-logo-de-6ter-article_media_image-1.png" group-title="|FR|🇫🇷 FRANCE",6ter
 https://s12.tntendirect.com/6ter/live/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
 https://s14.tntendirect.com/cherie25/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg"|FR|🇫🇷 FRANCE",MTV Hits
