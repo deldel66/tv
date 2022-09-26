@@ -138,6 +138,8 @@ https://ssc-1-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m
 https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/68/d9/00/68d900dcf01db80e6b28eb3ccb9fcb06.jpg" group-title="|AR|🇸🇦 ARABE",Rotana Khalijia
 https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+#EXTINF:0 tvg-logo="https://www.tribunejuive.info/wp-content/uploads/2022/06/download.jpeg" group-title="|AR|🇸🇦 ARABE",France 24 Ar
+http://81.94.196.205/tsstreamer/France24Arabic_HD.ts?checkedby:iptvcat.com
 
 
 
@@ -200,8 +202,13 @@ http://gratuittv.free.fr/Files/tf1/live/playlist.m3u8
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 http://red.ipfox.org:8080/osama2022/osama2023/49221?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 https://cdn.mmsiptv.com/live/france3/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3 V2
+http://red.ipfox.org:8080/osama2022/osama2023/49220?checkedby:iptvcat.com
+
 ""#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
 http://gratuittv.free.fr/Files/france4/live/playlist.m3u8""
 
@@ -230,9 +237,13 @@ https://s15.tntendirect.com/d17/live/chunks.m3u8
 https://s12.tntendirect.com/6ter/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
 https://s14.tntendirect.com/cherie25/live/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg"|FR|🇫🇷 FRANCE",MTV Hits
+http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
 http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg"|FR|🇫🇷 FRANCE",France24
+http://81.94.196.204/tsstreamer/France24_HD.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
