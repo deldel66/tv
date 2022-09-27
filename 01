@@ -67,9 +67,9 @@ https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+https://tv.elAhmad.net/https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+https://tv.elAhmad.net/https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
@@ -139,7 +139,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/inde
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/68/d9/00/68d900dcf01db80e6b28eb3ccb9fcb06.jpg" group-title="|AR|🇸🇦 ARABE",Rotana Khalijia
 https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
 #EXTINF:0 tvg-logo="https://www.tribunejuive.info/wp-content/uploads/2022/06/download.jpeg" group-title="|AR|🇸🇦 ARABE",France 24 Ar
-http://81.94.196.205/tsstreamer/France24Arabic_HD.ts?checkedby:iptvcat.com
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 
 
 
