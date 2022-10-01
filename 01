@@ -248,8 +248,6 @@ https://s12.tntendirect.com/6ter/live/chunks.m3u8
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
 https://s14.tntendirect.com/cherie25/live/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|FR|🇫🇷 FRANCE",MTV Hits
-http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
 http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
 
@@ -265,13 +263,13 @@ https://sv0.data-stream.top/hls/lci.m3u8
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR|🇫🇷 FRANCE",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|🇫🇷 FRANCE",TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|MU|🎸 Music",M6 Music
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="|MU|🎸 Music",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|MU|🎸 Music",MTV Hits
 http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|MU|🎸 Music",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
