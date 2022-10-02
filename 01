@@ -252,5 +252,5 @@ http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|MU|🎸 Music",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="dn-icons-png.flaticon.com/512/54/54516.png,RADIO",ORAN BAHIYA
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="📻 RADIO",ORAN BAHIYA
 https://webradio.tda.dz/Oran_64K.mp3
