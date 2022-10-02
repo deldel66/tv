@@ -28,11 +28,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 الأولى HD
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 CANAL ALGERIE HD
 https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 A3 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 A3 الإخبارية HD
 https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="|DZ|🇩🇿 ALGERIE",TV4 الأمازيغية HD
 https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
@@ -40,9 +40,9 @@ https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
 https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fXcD722/tv6al.png" group-title="|DZ|🇩🇿 ALGERIE",TV6  الشبابية HD
 https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="|DZ|🇩🇿 ALGERIE",TV7 ELMAARIFA HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="|DZ|🇩🇿 ALGERIE",TV7 المعرفة HD
 https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 EDHAKIRA HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 الذاكرة HD
 https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV HD		
 https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
