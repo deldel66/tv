@@ -18,6 +18,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
+https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA|🇲🇦 MAROC",M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA|🇲🇦 MAROC",MEDI 1 MG
@@ -133,7 +135,7 @@ http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/17-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/71-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC4
-http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_4/tracks-v1a1/mono.m3u8
+http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/108.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="|AR|🇸🇦 ARABE",MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Drama_MBC.png" group-title="|AR|🇸🇦 ARABE",MBC Drama
@@ -265,7 +267,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8T
 http://s.tv.kwaoo.net/11/play.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
-http://gratuittv.free.fr/Files/tmc/live/playlist.m3u8
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TFX_2018.svg" group-title="|FR|🇫🇷 FRANCE",TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/NRJ_12_logo_2015.svg" group-title="|FR|🇫🇷 FRANCE",NRJ 12
@@ -281,25 +283,31 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
 http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 FRANCE",TIJI
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
-http://81.94.196.204/tsstreamer/France24_HD.ts
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
 http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
-https://sv0.data-stream.top/hls/lci.m3u8
+https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR|🇫🇷 FRANCE",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
+https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="|MU|🎸 Music",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|MU|🎸 Music",MTV Hits
 http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|MU|🎸 Music",FUN RADIO TV
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|MU|🎸 Music",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
