@@ -176,6 +176,32 @@ https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/inde
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
+http://cineapp.org:8000/Fernando/Fernando/26
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD+
+http://cineapp.org:8000/Fernando/Fernando/3054
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 HD
+http://cineapp.org:8000/Fernando/Fernando/27
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 HD+
+http://cineapp.org:8000/Fernando/Fernando/3274
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 HD
+http://cineapp.org:8000/Fernando/Fernando/28
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 HD+
+http://cineapp.org:8000/Fernando/Fernando/7106
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 HD
+http://cineapp.org:8000/Fernando/Fernando/29
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 HD+
+http://cineapp.org:8000/Fernando/Fernando/3402
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 HD5
+http://cineapp.org:8000/Fernando/Fernando/30
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 HD+
+http://cineapp.org:8000/Fernando/Fernando/3403
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 HD
+http://cineapp.org:8000/Fernando/Fernando/31
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 HD+
+http://cineapp.org:8000/Fernando/Fernando/7107
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 HD+
+http://cineapp.org:8000/Fernando/Fernando/5817
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59306
