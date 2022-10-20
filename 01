@@ -36,50 +36,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 الأولى HD
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 الإخبارية HD
-https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="|DZ|🇩🇿 ALGERIE",TV4 الأمازيغية HD
-https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/SXjJGYZ/tv5al.png" group-title="|DZ|🇩🇿 ALGERIE",TV5 القرآن الكريم HD
-https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fXcD722/tv6al.png" group-title="|DZ|🇩🇿 ALGERIE",TV6  الشبابية HD
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="|DZ|🇩🇿 ALGERIE",TV7 المعرفة HD
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 الذاكرة HD
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV HD		
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS HD
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV HD
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD HD
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV HD
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS HD
-https://cdn02.hta.dz/abr_htatv/AL24_News/htatv/AL24_News_240p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV HD
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV HD
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV HD
-https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIR N1 HD
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="|DZ|🇩🇿 ALGERIE",EL HEDDAF TV HD
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="|DZ|🇩🇿 ALGERIE",EL FADRJ TV HD
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="|DZ|🇩🇿 ALGERIE",ALANIS TV HD	
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
-
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 ENTV
 https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE
@@ -124,10 +80,56 @@ https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 
 
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 الأولى HD
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 الإخبارية HD
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="|DZ|🇩🇿 ALGERIE",TV4 الأمازيغية HD
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SXjJGYZ/tv5al.png" group-title="|DZ|🇩🇿 ALGERIE",TV5 القرآن الكريم HD
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fXcD722/tv6al.png" group-title="|DZ|🇩🇿 ALGERIE",TV6  الشبابية HD
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="|DZ|🇩🇿 ALGERIE",TV7 المعرفة HD
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 الذاكرة HD
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV HD		
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS HD
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV HD
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD HD
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV HD
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS HD
+https://cdn02.hta.dz/abr_htatv/AL24_News/htatv/AL24_News_240p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV HD
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV HD
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV HD
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIR N1 HD
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="|DZ|🇩🇿 ALGERIE",EL HEDDAF TV HD
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="|DZ|🇩🇿 ALGERIE",EL FADRJ TV HD
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="|DZ|🇩🇿 ALGERIE",ALANIS TV HD	
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE
 https://gintna100.tulix.tv/gin_live/canalalgerie/4f3cfde7b17d79eeb6b405679c2af50d/633aee66/index.m3u8
 
-"arabe"
+"Arabe"
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="|AR|🇸🇦 ARABE",MBC1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/6-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC2
@@ -175,6 +177,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/inde
 #EXTINF:0 tvg-logo="https://www.tribunejuive.info/wp-content/uploads/2022/06/download.jpeg" group-title="|AR|🇸🇦 ARABE",France 24 Ar
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 
+" Sport "
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
 http://cineapp.org:8000/Fernando/Fernando/26
@@ -249,6 +252,7 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3680
 #EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/Canal%2B_Sport#/media/Fichier:Canal+_Sport_(2013).svg" group-title="|SP|⚽️ BEIN",CANAL+ sporte
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50145
 
+"France"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
@@ -321,6 +325,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 "#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8"
 
+"Musique"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="|MU|🎸 Music",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
@@ -330,6 +335,8 @@ http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|MU|🎸 Music",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+"Radio"
 
 #EXTINF:0 tvg-logo="https://www.dz-algerie.info/wp-content/uploads/2022/08/oran.png " group-title="📻 RADIO ",ORAN BAHIYA
 https://webradio.tda.dz/Oran_64K.mp3
