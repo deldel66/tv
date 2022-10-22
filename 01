@@ -180,6 +180,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="|AR|🇸🇦 ARABE", Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="|AR|🇸🇦 ARABE", Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
 " Sport "
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
