@@ -177,6 +177,9 @@ https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/inde
 #EXTINF:0 tvg-logo="https://www.tribunejuive.info/wp-content/uploads/2022/06/download.jpeg" group-title="|AR|🇸🇦 ARABE",France 24 Ar
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="|AR|🇸🇦 ARABE", Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
 " Sport "
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
