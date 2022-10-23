@@ -29,9 +29,6 @@ http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Sabia
-
-http://red.ipfox.org:8080/1234/12345678/34865
 
 
 
