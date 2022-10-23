@@ -170,13 +170,15 @@ https://ssc-1-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m
 https://ssc-1-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIsp5l4YwCa3gGTi2qpj1nmbRaClG2VAeeOPYv2UwAsn8aNI6b8NNvoJbblweQJa4bEs&usqp=CAU" group-title="|AR|🇸🇦 ARABE",Rotana +
 https://ssc-1-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png" group-title="|AR|🇸🇦 ARABE",Rotana Kids
-https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/68/d9/00/68d900dcf01db80e6b28eb3ccb9fcb06.jpg" group-title="|AR|🇸🇦 ARABE",Rotana Khalijia
 https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png" group-title="|AR|🇸🇦 ARABE",Rotana Kids
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimediag.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="|AR|🇸🇦 ARABE", SpaceToon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.tribunejuive.info/wp-content/uploads/2022/06/download.jpeg" group-title="|AR|🇸🇦 ARABE",France 24 Ar
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="|AR|🇸🇦 ARABE", Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
