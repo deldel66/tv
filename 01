@@ -356,6 +356,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 "Religion"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif" group-title="🕋 Religion",إقرأ
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:0 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="🕋 Religion",Makkah Tv
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 "Radio"
 
