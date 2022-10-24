@@ -322,6 +322,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 http://213.202.225.29:25461/live/441540944/journalsat/106.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One
 http://213.202.225.29:25461/live/441540944/journalsat/112.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
+http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
 http://livetv.ktv.zone/56/play.m3u8
