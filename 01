@@ -350,6 +350,13 @@ https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
+
+
+
+"Religion"
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif" group-title="Religion",اقرأ 
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+
 "Radio"
 
 #EXTINF:0 tvg-logo="https://www.dz-algerie.info/wp-content/uploads/2022/08/oran.png " group-title="📻 RADIO ",ORAN BAHIYA
