@@ -276,7 +276,7 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
-https://livetv.ktv.zone/4/play.m3u8
+http://livetv.ktv.zone/4/play.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 
