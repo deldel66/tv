@@ -354,6 +354,11 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 "Religion"
+
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/2bNmdwhH5iMUGU6sjNegAqFjQe2QvO3iePOorM78sQ2Y3BDER-hMtvTxm80pL_sQXMo=w240-h480-rw" group-title="🕋 Religion",Mawada tv
+http://82.212.74.98:8000/live/7821.m3u8
+#EXTINF:0 tvg-logo="https://www.themwlx.org/uploads/ahlutv_logo.png" group-title="🕋 Religion",Ahl Alquran tv
+https://ahlualquran.tv:25463/live/ahlutv/live-tv/1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif" group-title="🕋 Religion",إقرأ
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="🕋 Religion",Makkah Tv
