@@ -282,6 +282,8 @@ http://livetv.ktv.zone/105/play.m3u8
 http://livetv.ktv.zone/116/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL + HD
+http://iptv.journalsat.com:25461/358667440/journalsat/135
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
 http://livetv.ktv.zone/107/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
@@ -327,6 +329,8 @@ http://213.202.225.29:25461/live/441540944/journalsat/112.m3u8
 http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
 #EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+#EXTINF:0 tvg-logo="https://mytelevision.tv/assets/img/chaines/mycomedy.png" group-title="|FR|🇫🇷 FRANCE",MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
 http://livetv.ktv.zone/56/play.m3u8
@@ -334,6 +338,7 @@ http://livetv.ktv.zone/56/play.m3u8
 https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
 http://livetv.ktv.zone/118/play.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
 http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
@@ -346,6 +351,19 @@ http://livetv.ktv.zone/61/play.m3u8
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9c/LCP_Logo.svg" group-title="|FR|🇫🇷 FRANCE",LCP
 http://livetv.ktv.zone/15/play.m3u8
+
+"CANAL SAT "
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD
+http://iptv.journalsat.com:25461/358667440/journalsat/769
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ FAMILY HD
+http://iptv.journalsat.com:25461/358667440/journalsat/770
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ DECALE HD
+http://iptv.journalsat.com:25461/358667440/journalsat/771
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Canal%2B_S%C3%A9ries.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ SERIES HD
+http://iptv.journalsat.com:25461/358667440/journalsat/772
+
+
+
 
 "Musique"
 
