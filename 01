@@ -273,11 +273,10 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50145
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
-http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/France_3_1992.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 http://livetv.ktv.zone/105/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
 http://livetv.ktv.zone/116/play.m3u8
@@ -303,9 +302,10 @@ http://livetv.ktv.zone/114/play.m3u8
 http://livetv.ktv.zone/119/play.m3u8
 #EXTINF:0 tvg-logo="https://static1.ozap.com/articles/5/50/43/55/@/4525580-logo-de-6ter-article_media_image-1.png" group-title="|FR|🇫🇷 FRANCE",6ter
 http://livetv.ktv.zone/24/play.m3u8
-#EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
-https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
@@ -324,6 +324,8 @@ http://213.202.225.29:25461/live/441540944/journalsat/106.m3u8
 http://213.202.225.29:25461/live/441540944/journalsat/112.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
 http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
+#EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
 http://livetv.ktv.zone/56/play.m3u8
