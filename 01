@@ -126,8 +126,8 @@ https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m
 https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE
-https://gintna100.tulix.tv/gin_live/canalalgerie/4f3cfde7b17d79eeb6b405679c2af50d/633aee66/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 1
+http://iptv.journalsat.com:25461/358667440/journalsat/687
 
 "Arabe"
 
@@ -313,8 +313,17 @@ http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE", RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg" group-title="|FR|🇫🇷 FRANCE", Chasse & Peche
-http://iptv.journalsat.com:25461/358667440/journalsat/133
+"DOC"
+#EXTINF:0 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/animauxtv-logo.png" group-title="|FR|🇫🇷 FRANCE",ANIMAUX HD
+http://iptv.journalsat.com:25461/358667440/journalsat/144
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg" group-title="|FR|🇫🇷 FRANCE",Chasse & Peche
+http://iptv.journalsat.com:25461/358667440/journalsat/1487
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="|FR|🇫🇷 FRANCE",NATIONAL GEO HD
+http://iptv.journalsat.com:25461/358667440/journalsat/98
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="|FR|🇫🇷 FRANCE",NAT GEO WILD HD
+http://iptv.journalsat.com:25461/358667440/journalsat/99
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|FR|🇫🇷 FRANCE",MTV France 
 http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
