@@ -326,7 +326,7 @@ http://iptv.journalsat.com:25461/358667440/journalsat/1487
 http://iptv.journalsat.com:25461/358667440/journalsat/98
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="|FR|🇫🇷 FRANCE",NAT GEO WILD HD
 http://iptv.journalsat.com:25461/358667440/journalsat/99
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",tvscience & vie tv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",Science & Vie TV
 http://iptv.journalsat.com:25461/358667440/journalsat/86
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5c/Histoire_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",HISTOIRE HD
 http://iptv.journalsat.com:25461/358667440/journalsat/110
@@ -356,19 +356,17 @@ http://iptv.journalsat.com:25461/358667440/journalsat/166
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="|FR|🇫🇷 FRANCE",TELLETON+ HD
 http://iptv.journalsat.com:25461/358667440/journalsat/83
 
-
-
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
 http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
+
+
 #EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 #EXTINF:0 tvg-logo="https://mytelevision.tv/assets/img/chaines/mycomedy.png" group-title="|FR|🇫🇷 FRANCE",MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 
 
-"Infofr"
+"Info fr"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
 http://livetv.ktv.zone/56/play.m3u8
