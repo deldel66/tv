@@ -304,9 +304,10 @@ http://livetv.ktv.zone/119/play.m3u8
 http://livetv.ktv.zone/24/play.m3u8
 
 #EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
-http://livetv.ktv.zone/27/play.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE", RMC Découverte
