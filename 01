@@ -334,7 +334,7 @@ http://livetv.ktv.zone/118/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
 http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
-http://livetv.ktv.zone/73/play.m3u8
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR|🇫🇷 FRANCE",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg" group-title="|FR|🇫🇷 FRANCE",TV5 Monde
