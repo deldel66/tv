@@ -272,14 +272,11 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50145
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-
-
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
-http://livetv.ktv.zone/116/play.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
 http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL + HD
@@ -300,6 +297,9 @@ http://livetv.ktv.zone/112/play.m3u8
 http://livetv.ktv.zone/113/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/NRJ_12_logo_2015.svg" group-title="|FR|🇫🇷 FRANCE",NRJ 12
 http://livetv.ktv.zone/114/play.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
+http://livetv.ktv.zone/116/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cstar-logo.jpg" group-title="|FR|🇫🇷 FRANCE",CStar
 http://livetv.ktv.zone/119/play.m3u8
 #EXTINF:0 tvg-logo="https://static1.ozap.com/articles/5/50/43/55/@/4525580-logo-de-6ter-article_media_image-1.png" group-title="|FR|🇫🇷 FRANCE",6ter
@@ -309,22 +309,25 @@ http://livetv.ktv.zone/24/play.m3u8
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE", RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg" group-title="|FR|🇫🇷 FRANCE", Chasse & Peche
+http://iptv.journalsat.com:25461/358667440/journalsat/133
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|FR|🇫🇷 FRANCE",MTV France 
 http://190.2.155.162:8080/mtvfrance/mpegts
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
 http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 FRANCE",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="|FR|🇫🇷 FRANCE",Mangas
-http://213.202.225.29:25461/live/441540944/journalsat/106.m3u8
+http://iptv.journalsat.com:25461/358667440/journalsat/106
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One
-http://213.202.225.29:25461/live/441540944/journalsat/112.m3u8
+http://iptv.journalsat.com:25461/358667440/journalsat/112
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="|FR|🇫🇷 FRANCE",NICKELODEON JR HD
+http://iptv.journalsat.com:25461/358667440/journalsat/166
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
 http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
 #EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
@@ -351,6 +354,7 @@ http://livetv.ktv.zone/61/play.m3u8
 https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9c/LCP_Logo.svg" group-title="|FR|🇫🇷 FRANCE",LCP
 http://livetv.ktv.zone/15/play.m3u8
+
 
 "CANAL SAT "
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD
