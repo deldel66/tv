@@ -313,7 +313,11 @@ http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 http://livetv.ktv.zone/25/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE", RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
+
+
 "DOC"
+
+
 #EXTINF:0 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/animauxtv-logo.png" group-title="|FR|🇫🇷 FRANCE",ANIMAUX HD
 http://iptv.journalsat.com:25461/358667440/journalsat/144
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg" group-title="|FR|🇫🇷 FRANCE",Chasse & Peche
@@ -322,8 +326,21 @@ http://iptv.journalsat.com:25461/358667440/journalsat/1487
 http://iptv.journalsat.com:25461/358667440/journalsat/98
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="|FR|🇫🇷 FRANCE",NAT GEO WILD HD
 http://iptv.journalsat.com:25461/358667440/journalsat/99
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",tvscience & vie tv
+http://iptv.journalsat.com:25461/358667440/journalsat/86
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5c/Histoire_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",HISTOIRE HD
+http://iptv.journalsat.com:25461/358667440/journalsat/110
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/53/Toute_L%27Histoire.svg" group-title="|FR|🇫🇷 FRANCE",Toute l'Histoire HD
+http://iptv.journalsat.com:25461/358667440/journalsat/75
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d0/Ushua%C3%AFa_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",USHUAIA HD
+http://iptv.journalsat.com:25461/358667440/journalsat/71
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",Téva
+http://iptv.journalsat.com:25461/358667440/journalsat/82
 
 
+"ABSAT"
+
+"Kids FR"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|FR|🇫🇷 FRANCE",MTV France 
 http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
@@ -336,6 +353,12 @@ http://iptv.journalsat.com:25461/358667440/journalsat/106
 http://iptv.journalsat.com:25461/358667440/journalsat/112
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="|FR|🇫🇷 FRANCE",NICKELODEON JR HD
 http://iptv.journalsat.com:25461/358667440/journalsat/166
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="|FR|🇫🇷 FRANCE",TELLETON+ HD
+http://iptv.journalsat.com:25461/358667440/journalsat/83
+
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
 http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
@@ -343,6 +366,9 @@ http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
 #EXTINF:0 tvg-logo="https://mytelevision.tv/assets/img/chaines/mycomedy.png" group-title="|FR|🇫🇷 FRANCE",MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
+
+
+"Infofr"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
 http://livetv.ktv.zone/56/play.m3u8
