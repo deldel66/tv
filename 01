@@ -348,16 +348,16 @@ http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 FRANCE",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="|FR|🇫🇷 FRANCE",Mangas
-http://iptv.journalsat.com:25461/358667440/journalsat/106
+http://cineapp.org:8000/Fernando/Fernando/259
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One
-http://iptv.journalsat.com:25461/358667440/journalsat/112
+http://cineapp.org:8000/Fernando/Fernando/3612
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="|FR|🇫🇷 FRANCE",NICKELODEON JR HD
-http://iptv.journalsat.com:25461/358667440/journalsat/166
+http://cineapp.org:8000/Fernando/Fernando/3271
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="|FR|🇫🇷 FRANCE",TELLETON+ HD
-http://iptv.journalsat.com:25461/358667440/journalsat/83
+http://cineapp.org:8000/Fernando/Fernando/1689
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
-http://213.202.225.29:25461/live/441540944/journalsat/160.m3u8
+http://cineapp.org:8000/Fernando/Fernando/7206
 
 
 #EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
