@@ -321,25 +321,29 @@ http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:0 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/animauxtv-logo.png" group-title="|FR|🇫🇷 FRANCE",ANIMAUX HD
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66278
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg" group-title="|FR|🇫🇷 FRANCE",Chasse & Peche
-http://iptv.journalsat.com:25461/358667440/journalsat/1487
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66281
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="|FR|🇫🇷 FRANCE",NATIONAL GEO HD
-http://iptv.journalsat.com:25461/358667440/journalsat/98
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9227
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="|FR|🇫🇷 FRANCE",NAT GEO WILD HD
 http://iptv.journalsat.com:25461/358667440/journalsat/99
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",Science & Vie TV
-http://iptv.journalsat.com:25461/358667440/journalsat/86
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9222
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5c/Histoire_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",HISTOIRE HD
-http://iptv.journalsat.com:25461/358667440/journalsat/110
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9230
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/53/Toute_L%27Histoire.svg" group-title="|FR|🇫🇷 FRANCE",Toute l'Histoire HD
-http://iptv.journalsat.com:25461/358667440/journalsat/75
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9218
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d0/Ushua%C3%AFa_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",USHUAIA HD
-http://iptv.journalsat.com:25461/358667440/journalsat/71
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9221
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",Téva
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/65362
 
 
 "ABSAT"
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",AB1ⓧ
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/65364
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",Action
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9170
 "Kids FR"
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|FR|🇫🇷 FRANCE",MTV France 
 http://190.2.155.162:8080/mtvfrance/mpegts
@@ -350,16 +354,16 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="|FR|🇫🇷 FRANCE",Mangas
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66853
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One
-http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66469
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9253
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One+1
 http://revteam4.offshorerev.cc:80/mag00:1A:79:14:37:BF/Kom9YnrY4A/77141
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66464
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="|FR|🇫🇷 FRANCE",NICKELODEON JR HD
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9093
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="|FR|🇫🇷 FRANCE",TELLETON+ HD
 http://revteam4.offshorerev.cc:80/mag00:1A:79:14:37:BF/Kom9YnrY4A/76939
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
-http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66464
 
 
 #EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
