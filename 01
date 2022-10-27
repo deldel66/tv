@@ -441,18 +441,17 @@ http://livetv.ktv.zone/15/play.m3u8
 
 
 "CANAL SAT "
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Premier
-http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/49190
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/49187
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ FAMILY HD
-http://iptv.journalsat.com:25461/358667440/journalsat/770
+http://revteam4.offshorerev.cc:80/mag00:1A:79:14:37:BF/Kom9YnrY4A/77026
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ DECALE HD
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66252
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Canal%2B_S%C3%A9ries.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ SERIES HD
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/92810
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/CinePlusClassic.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Classic
-http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66604
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Premier
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/49190
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fd/CinePlusClub_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Club
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66073
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1024px-CinePlusEmotion.svg.png" group-title="|FR|🇫🇷 FRANCE",Ciné+ Emotion
@@ -461,6 +460,8 @@ http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/92485
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/49193
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3d/CinePlusFrisson.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Frisson
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66602
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/CinePlusClassic.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Classic
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66604
 
 
 
