@@ -486,7 +486,20 @@ http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/76511
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
+"BELGIQUE"
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/RTBF_La_Une_logo.svg" group-title="|BE|BELGIQUE",La Une
+http://cineapp.org:8000/Fernando/Fernando/507
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/RTBF_La_Deux_logo.svg" group-title="|BE|BELGIQUE",La Deux
+http://cineapp.org:8000/Fernando/Fernando/8120
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/RTBF_La_Trois_logo.svg" group-title="|BE|BELGIQUE",La Trois
+http://cineapp.org:8000/Fernando/Fernando/8122
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Club_RTL_logo.svg" group-title="|BE|BELGIQUE",CLUB RTL
+http://cineapp.org:8000/Fernando/Fernando/8119
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RTL-TVI_logo.svg" group-title="|BE|BELGIQUE",RTL TVI
+http://cineapp.org:8000/Fernando/Fernando/508
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RTL-TVI_logo.svg" group-title="|BE|BELGIQUE",PLUG RTL
+http://cineapp.org:8000/Fernando/Fernando/509
 
 
 "Religion"
