@@ -354,13 +354,13 @@ http://venomtt.com:8000/kdcxxD1U/543545/75730
 http://iptv.ndasat.com:88/224239368176570/224239368176570/469
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",Téva
 http://venomtt.com:8000/kdcxxD1U/543545/75709
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",MY CUISINE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/My_Cuisine_logo.png" group-title="|FR|🇫🇷 FRANCE",MY CUISINE
 http://venomtt.com:8000/kdcxxD1U/543545/75710
 
 
 "ABSAT"
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="|FR|🇫🇷 FRANCE",AB MOTEUR
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/ABMoteurs2.jpg" group-title="|FR|🇫🇷 FRANCE",AB MOTEUR
 http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9359
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="|FR|🇫🇷 FRANCE",AB1
 http://iptv.ndasat.com:88/224239368176570/224239368176570/1526
