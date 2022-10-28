@@ -458,13 +458,11 @@ http://livetv.ktv.zone/15/play.m3u8
 "CANAL SAT "
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9332
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA FHD
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9582
+http://iptv.ndasat.com:88/224239368176570/224239368176570/5191
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ FAMILY HD
-http://revteam4.offshorerev.cc:80/mag00:1A:79:14:37:BF/Kom9YnrY4A/77026
+http://iptv.ndasat.com:88/224239368176570/224239368176570/184
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ DECALE HD
-http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66252
+http://iptv.ndasat.com:88/229682723529953/229682723529953/183
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Canal%2B_S%C3%A9ries.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ SERIES HD
 http://venomtt.com:8000/kdcxxD1U/543545/75696
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Premier
