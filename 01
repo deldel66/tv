@@ -276,9 +276,6 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 http://livetv.ktv.zone/105/play.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL +
-http://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL + HD
 http://iptv.ndasat.com:88/224239368176570/224239368176570/181
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
