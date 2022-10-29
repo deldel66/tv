@@ -361,6 +361,8 @@ http://venomtt.com:8000/kdcxxD1U/543545/75710
 http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9359
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="|FR|🇫🇷 FRANCE",AB1
 http://iptv.ndasat.com:88/224239368176570/224239368176570/1526
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="|FR|🇫🇷 FRANCE",AB3
+http://platin4k.eu/eagleiptv/SsFAljPDDi/73435
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2f/Action_%282014%29.svg" group-title="|FR|🇫🇷 FRANCE",Action
 http://iptv.ndasat.com:88/224239368176570/224239368176570/296
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/75/RTL9_%282011%29.svg" group-title="|FR|🇫🇷 FRANCE",RTL9
@@ -501,17 +503,17 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 "BELGIQUE"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/RTBF_La_Une_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",La Une
-https://list.iptvcat.com/my_list/s/b0809018f7bc7132dbc0c37a3db63b90.m3u8
+http://platin4k.eu/eagleiptv/SsFAljPDDi/73442
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/RTBF_La_Deux_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",La Deux
 http://cineapp.org:8000/Fernando/Fernando/8120
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/RTBF_La_Trois_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",La Trois
-https://list.iptvcat.com/my_list/s/ab7312a1f3affcce2c61a16396c50905.m3u8
+http://platin4k.eu/eagleiptv/SsFAljPDDi/73441
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Club_RTL_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",CLUB RTL
 http://cineapp.org:8000/Fernando/Fernando/8119
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RTL-TVI_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI
-https://list.iptvcat.com/my_list/s/acd66edc69e02e37a1e12fd17a3b6254.m3u8
+http://platin4k.eu/eagleiptv/SsFAljPDDi/74919
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RTL-TVI_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",PLUG RTL
-https://list.iptvcat.com/my_list/s/7dc7a5d91deeb60dac8c4348a41bd849.m3u8
+http://platin4k.eu/eagleiptv/SsFAljPDDi/135944
 
 
 "Religion"
