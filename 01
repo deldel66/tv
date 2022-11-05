@@ -327,6 +327,8 @@ http://iptv.ndasat.com:88/224239368176570/224239368176570/486
 http://venomtt.com:8000/kdcxxD1U/543545/75699
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",Science & Vie TV
 http://venomtt.com:8000/kdcxxD1U/543545/75732
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ABXplore_logo.svg" group-title="|FR|🇫🇷 FRANCE",ABXPLORE
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/480
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5c/Histoire_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",HISTOIRE HD
 http://iptv.ndasat.com:88/224239368176570/224239368176570/1534
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/53/Toute_L%27Histoire.svg" group-title="|FR|🇫🇷 FRANCE",Toute l'Histoire HD
