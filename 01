@@ -328,7 +328,7 @@ http://venomtt.com:8000/kdcxxD1U/543545/75699
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",Science & Vie TV
 http://venomtt.com:8000/kdcxxD1U/543545/75732
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ABXplore_logo.svg" group-title="|FR|🇫🇷 FRANCE",ABXPLORE
-http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/480
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/480?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5c/Histoire_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",HISTOIRE HD
 http://iptv.ndasat.com:88/224239368176570/224239368176570/1534
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/53/Toute_L%27Histoire.svg" group-title="|FR|🇫🇷 FRANCE",Toute l'Histoire HD
@@ -506,7 +506,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 "BELGIQUE"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/RTBF_La_Une_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",La Une
-http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/471?checkedby:iptvcat.com
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/471?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/RTBF_La_Deux_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",La Deux
 
 http://cineapp.org:8000/Fernando/Fernando/8120?checkedby:iptvcat.com
@@ -523,7 +523,7 @@ http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/49658?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RTL-TVI_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/474?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Plug_RTL_20080907.png" group-title="|BE|🇧🇪 BELGIQUE",PLUG RTL
-http://obsfullhd.tv:25461/live:duygulu__68/TrUZNznbVCzA/476?checkedby:iptvcat.com
+http ://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/476?checkedby:iptvcat.com
 
 
 "Religion"
