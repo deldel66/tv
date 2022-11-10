@@ -392,9 +392,9 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="|FR|🇫🇷 FRANCE",Boomerang
 http://iptv.ndasat.com:88/224239368176570/224239368176570/297
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="|FR|🇫🇷 FRANCE",Mangas
-http://iptv.ndasat.com:88/224239368176570/224239368176570/490
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20196
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One
-http://iptv.ndasat.com:88/224239368176570/224239368176570/1524
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20186
 #EXTINF:0 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2015/08/Game-One-1.png" group-title="|FR|🇫🇷 FRANCE",Game One+1
 http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66470
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
@@ -463,7 +463,9 @@ http://livetv.ktv.zone/15/play.m3u8
 "CANAL SAT "
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD
-http://iptv.ndasat.com:88/224239368176570/224239368176570/5191
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20285
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD V2
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/12297
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ FAMILY HD
 http://iptv.ndasat.com:88/224239368176570/224239368176570/184
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ DECALE HD
