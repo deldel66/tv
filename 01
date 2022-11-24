@@ -271,7 +271,9 @@ http://venomtt.com:8000/kdcxxD1U/543545/75697
 "France"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
-https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+
+http://livetv.ktv.zone/3/play.m3u8
+
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
