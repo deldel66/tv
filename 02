@@ -1,0 +1,288 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
+
+http://livetv.ktv.zone/3/play.m3u8
+
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/102-1028815_logo-france-2-france-2-svg.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 2
+http://livetv.ktv.zone/4/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/France_3_2018.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL + HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20284
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/22/M6_2009.svg" group-title="|FR|🇫🇷 FRANCE",M6
+
+http://livetv.ktv.zone/8/play.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="|FR|🇫🇷 FRANCE",ARTE FR
+http://livetv.ktv.zone/109/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg" group-title="|FR|🇫🇷 FRANCE",C8
+http://livetv.ktv.zone/110/play.m3u8
+#EXTINF:0 tvg-logo="https://www.6play.fr/assets/logos/w9-3bc6193533.svg" group-title="|FR|🇫🇷 FRANCE",W9
+http://livetv.ktv.zone/111/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a8/TMC_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",TMC
+http://livetv.ktv.zone/112/play.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TFX_2018.svg" group-title="|FR|🇫🇷 FRANCE",TFX
+http://livetv.ktv.zone/113/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/NRJ_12_logo_2015.svg" group-title="|FR|🇫🇷 FRANCE",NRJ 12
+http://livetv.ktv.zone/114/play.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/France_4_logo.png/363px-France_4_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cstar-logo.jpg" group-title="|FR|🇫🇷 FRANCE",CStar
+http://livetv.ktv.zone/119/play.m3u8
+#EXTINF:0 tvg-logo="https://static1.ozap.com/articles/5/50/43/55/@/4525580-logo-de-6ter-article_media_image-1.png" group-title="|FR|🇫🇷 FRANCE",6ter
+http://livetv.ktv.zone/24/play.m3u8
+
+#EXTINF:0 tvg-logo="https://www.nrj-play.fr/build/play/img/logo-cherie25.svg" group-title="|FR|🇫🇷 FRANCE",Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/TF1_SF_2020.svg" group-title="|FR|🇫🇷 FRANCE",TF1 Séries Films 
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/Serie_club_2007_logo.svg" group-title="|FR|🇫🇷 FRANCE",SERIE CLUB
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20231
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE", RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+
+
+"DOC"
+
+
+#EXTINF:0 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/animauxtv-logo.png" group-title="|FR|🇫🇷 FRANCE",ANIMAUX HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20140
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg" group-title="|FR|🇫🇷 FRANCE",Chasse & Peche
+http://venomtt.com:8000/kdcxxD1U/543545/75731
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="|FR|🇫🇷 FRANCE",NATIONAL GEO HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20429
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="|FR|🇫🇷 FRANCE",NAT GEO WILD HD
+http://venomtt.com:8000/kdcxxD1U/543545/75699
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bf/Science_%26_Vie_TV.svg" group-title="|FR|🇫🇷 FRANCE",Science & Vie TV
+http://venomtt.com:8000/kdcxxD1U/543545/75732
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ABXplore_logo.svg" group-title="|FR|🇫🇷 FRANCE",ABXPLORE
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/480?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5c/Histoire_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",HISTOIRE HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20190
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/53/Toute_L%27Histoire.svg" group-title="|FR|🇫🇷 FRANCE",Toute l'Histoire HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20244
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/Crime_District_logo_2016.svg" group-title="|FR|🇫🇷 FRANCE",Crime District
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20167
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d0/Ushua%C3%AFa_TV_logo_2019.svg" group-title="|FR|🇫🇷 FRANCE",USHUAIA HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20250
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ec/Discovery_Channel_1995.svg" group-title="|FR|🇫🇷 FRANCE",Discovery
+http://venomtt.com:8000/kdcxxD1U/543545/75723
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Discovery_Science_-_Logo_2017.svg" group-title="|FR|🇫🇷 FRANCE", Discovery Science
+http://venomtt.com:8000/kdcxxD1U/543545/75724
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Discovery_Family_logo.svg" group-title="|FR|🇫🇷 FRANCE",Discovery Family
+http://venomtt.com:8000/kdcxxD1U/543545/75724
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Investigation_Discovery_Logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",Discovery Investigation
+http://venomtt.com:8000/kdcxxD1U/543545/75726
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cd/PlanetePlus_2011.svg" group-title="|FR|🇫🇷 FRANCE",PLANETE
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20221
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/PLAN%C3%88TE%2B_ci.png" group-title="|FR|🇫🇷 FRANCE",PLANETE CI
+http://venomtt.com:8000/kdcxxD1U/543545/75730
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/Planeteplusaventure.png" group-title="|FR|🇫🇷 FRANCE",Planète+ Aventure
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20438
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/T%C3%A9va_logo_2021.svg" group-title="|FR|🇫🇷 FRANCE",Téva
+http://venomtt.com:8000/kdcxxD1U/543545/75709
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/My_Cuisine_logo.png" group-title="|FR|🇫🇷 FRANCE",MY CUISINE
+http://venomtt.com:8000/kdcxxD1U/543545/75710
+
+
+"ABSAT"
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/ABMoteurs2.jpg" group-title="|FR|🇫🇷 FRANCE",AB MOTEUR
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9359
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="|FR|🇫🇷 FRANCE",AB1
+http://iptv.ndasat.com:88/224239368176570/224239368176570/1526
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0e/Logo_AB3.svg" group-title="|FR|🇫🇷 FRANCE",AB3
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5251?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2f/Action_%282014%29.svg" group-title="|FR|🇫🇷 FRANCE",Action
+http://iptv.ndasat.com:88/224239368176570/224239368176570/296
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/75/RTL9_%282011%29.svg" group-title="|FR|🇫🇷 FRANCE",RTL9
+http://venomtt.com:8000/kdcxxD1U/543545/75684
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/13e_rue_2010_%28logo%29.svg" group-title="|FR|🇫🇷 FRANCE",13eme Rue
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/65374
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="|FR|🇫🇷 FRANCE",BET
+http://iptv.ndasat.com:88/224239368176570/224239368176570/2162
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="|FR|🇫🇷 FRANCE",E! Entertainment
+http://iptv.ndasat.com:88/224239368176570/224239368176570/1535
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Syfy.svg" group-title="|FR|🇫🇷 FRANCE",Syfy
+http://iptv.ndasat.com:88/224239368176570/224239368176570/292
+
+
+"Kids FR"
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|FR|🇫🇷 FRANCE",MTV France 
+http://190.2.155.162:8080/mtvfrance/mpegts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="|FR|🇫🇷 FRANCE",Gulli
+http://gratuittv.free.fr/Files/gulli/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png" group-title="|FR|🇫🇷 FRANCE",TiJi
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="|FR|🇫🇷 FRANCE",Boomerang
+http://iptv.ndasat.com:88/224239368176570/224239368176570/297
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="|FR|🇫🇷 FRANCE",Mangas
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20196
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d2/Game_One_%282006%29_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Game One
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20186
+#EXTINF:0 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2015/08/Game-One-1.png" group-title="|FR|🇫🇷 FRANCE",Game One+1
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66470
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/J-One.svg" group-title="|FR|🇫🇷 FRANCE",J-One
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20191
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Toonami_Logo_2021.png" group-title="|FR|🇫🇷 FRANCE",Toonami
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20395
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="|FR|🇫🇷 FRANCE",GonG
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="|FR|🇫🇷 FRANCE",NICKELODEON 
+http://venomtt.com:8000/kdcxxD1U/543545/75740
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="|FR|🇫🇷 FRANCE",NICKELODEON JR 
+http://venomtt.com:8000/kdcxxD1U/543545/75738
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png" group-title="|FR|🇫🇷 FRANCE",NICKELODEON Teen
+http://venomtt.com:8000/kdcxxD1U/543545/75739
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="|FR|🇫🇷 FRANCE",TELLETON+ 
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20236
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/T%C3%A9l%C3%A9toon%2B1_logo.png" group-title="|FR|🇫🇷 FRANCE",TELLETON+ PR
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/9496
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="|FR|🇫🇷 FRANCE",Piwi+
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20220
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="|FR|🇫🇷 FRANCE",Boing
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20414
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="|FR|🇫🇷 FRANCE",Canal J
+http://venomtt.com:8000/kdcxxD1U/543545/75727
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_%282004-2010%29.svg" group-title="|FR|🇫🇷 FRANCE",Cartoon Network
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20155
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png" group-title="|FR|🇫🇷 FRANCE",Disney Channel
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20173
+#EXTINF:0 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~e778efd6dec19eba.png/1200x630/crop-from/top/quality/80/disney-channel-1.png" group-title="|FR|🇫🇷 FRANCE",Disney Channel +1
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/66292
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/82/Disney_Junior_logo_2019.png" group-title="|FR|🇫🇷 FRANCE",Disney Junior
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20175
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="|FR|🇫🇷 FRANCE",Disney+
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20176
+
+
+
+#EXTINF:0 tvg-logo="https://menafn.com/updates/pr/2021-03/29/M_6d93b05f-8image_story.jpg" group-title="|FR|🇫🇷 FRANCE",M6 international
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+#EXTINF:0 tvg-logo="https://mytelevision.tv/assets/img/chaines/mycomedy.png" group-title="|FR|🇫🇷 FRANCE",MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
+
+
+"Info fr"
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
+http://81.94.196.204/tsstreamer/France24_HD.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
+http://livetv.ktv.zone/118/play.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="|FR|🇫🇷 FRANCE",BFM BUSINESS
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg" group-title="|FR|🇫🇷 FRANCE",TV5 Monde
+http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
+http://iptv.ndasat.com:88/224239368176570/224239368176570/3688
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9c/LCP_Logo.svg" group-title="|FR|🇫🇷 FRANCE",LCP
+http://livetv.ktv.zone/15/play.m3u8
+
+
+"CANAL SAT "
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20285
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ CINEMA HD V2
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/12297
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="|FR|🇫🇷 FRANCE",CANAL+ FAMILY HD
+http://iptv.ndasat.com:88/224239368176570/224239368176570/184
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ DECALE HD
+http://iptv.ndasat.com:88/229682723529953/229682723529953/183
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Canal%2B_S%C3%A9ries.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+ SERIES HD
+http://venomtt.com:8000/kdcxxD1U/543545/75696
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Premier
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20165
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/fd/CinePlusClub_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Club
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20160
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1024px-CinePlusEmotion.svg.png" group-title="|FR|🇫🇷 FRANCE",Ciné+ Emotion
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20161
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/CinePlusFamiz_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Famiz
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20162
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3d/CinePlusFrisson.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Frisson
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20163
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/CinePlusClassic.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Classic
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20159
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Cin%C3%A9_Polar_logo.svg" group-title="|FR|🇫🇷 FRANCE",Ciné+ Polar
+http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/20164
+
+
+
+"Musique"
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="|MU|🎸 Music",M6 Music
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg" group-title="|MU|🎸 Music",MTV Hits
+http://190.2.155.162:8080/mtvhit/mpegts?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="|MU|🎸 Music",FUN RADIO TV
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ab/MCM_logo_2017.svg" group-title="|MU|🎸 Music",MCM
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/67254
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="|MU|🎸 Music",MCM Top
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/9240
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/36/NRJ_Hits_2017.svg" group-title="|MU|🎸 Music",NRJ Hits
+http://platinumxmedia.xyz:8080/joseph.a.perez/q7kg8bCSy2/76511
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|MU|🎸 Music",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 الأولى HD
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 الإخبارية HD
+https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="|DZ|🇩🇿 ALGERIE",TV4 الأمازيغية HD
+https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SXjJGYZ/tv5al.png" group-title="|DZ|🇩🇿 ALGERIE",TV5 القرآن الكريم HD
+https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fXcD722/tv6al.png" group-title="|DZ|🇩🇿 ALGERIE",TV6  الشبابية HD
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="|DZ|🇩🇿 ALGERIE",TV7 المعرفة HD
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 الذاكرة HD
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV HD		
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS HD
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV HD
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD HD
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV HD
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS HD
+https://cdn02.hta.dz/abr_htatv/AL24_News/htatv/AL24_News_240p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV HD
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV HD
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV HD
+https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIR N1 HD
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="|DZ|🇩🇿 ALGERIE",EL HEDDAF TV HD
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="|DZ|🇩🇿 ALGERIE",EL FADRJ TV HD
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="|DZ|🇩🇿 ALGERIE",ALANIS TV HD	
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
