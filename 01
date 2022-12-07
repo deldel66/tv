@@ -261,37 +261,15 @@ http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192757
 #EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 3 HD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192756
 
+#EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_4.jpg" group-title="|SP|⚽️ BEIN",alkass 4
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/hdntl=exp=1670511390~acl=%2f*~data=hdntl~hmac=1e369aa2a4229ebf2391e0addd0554a53e4eba534e1ec62c4016a4897230cb3d/chunklist_b6128000_sleng.m3u8
 
+#EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_5.jpg" group-title="|SP|⚽️ BEIN",alkass 5
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/hdntl=exp=1670511182~acl=%2f*~data=hdntl~hmac=a90b90082c9730237a08b5c0b2cd5fc2b6ef18ca0e3010269df72a7310e56759/chunklist_b5128000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 SD
-http://venomtt.com:8000/kdcxxD1U/543545/156462
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 SD V2
-http://cobraa.in:8000/722617770836/616b3a83cb751/3069
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3245
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3246
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3247
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49383
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49384
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49385
-#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 PREMIUM SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49685
-#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 PREMIUM SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49386
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/73
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47302
-#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3680
-#EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/Canal%2B_Sport#/media/Fichier:Canal+_Sport_(2013).svg" group-title="|SP|⚽️ BEIN",CANAL+ sporte
-http://venomtt.com:8000/kdcxxD1U/543545/75697
+#EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_6.jpg" group-title="|SP|⚽️ BEIN",alkass 6
 
+https://livebs.alkassdigital.net/hls/live/2094545/Alkass6az/hdntl=exp=1670511458~acl=%2f*~data=hdntl~hmac=8052e8cc26ead742ac5784006b4e8ee4670feedaea3e98dbd3295c20a1cf3c4b/master720.m3u8
 "France"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
