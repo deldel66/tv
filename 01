@@ -200,26 +200,46 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 " Sport "
 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 01 HD
+http://comag.rip:8000/50000294027085/23534165557770/176199
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/BeIN_SPORTS_Max_HD_2_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 02 HD
+http://comag.rip:8000/50000294027085/23534165557770/176198
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 03 HD
+http://comag.rip:8000/50000294027085/23534165557770/176201
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 04 HD
+http://comag.rip:8000/50000294027085/23534165557770/176200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 05 HD
+http://comag.rip:8000/50000294027085/23534165557770/176189
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 06 HD
+http://comag.rip:8000/50000294027085/23534165557770/176188
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 PREMIUM HD
+http://comag.rip:8000/50000294027085/23534165557770/156468
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 PREMIUM HD
+http://comag.rip:8000/50000294027085/23534165557770/156466
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 PREMIUM HD
+http://comag.rip:8000/50000294027085/23534165557770/156464
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 HD
 http://comag.rip:8000/50000294027085/23534165557770/156462
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 HD
-http://cineapp.org:8000/Fernando/Fernando/27
+http://comag.rip:8000/50000294027085/23534165557770/156460
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 HD
-http://cineapp.org:8000/Fernando/Fernando/28
+http://comag.rip:8000/50000294027085/23534165557770/156458
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 HD
-http://cineapp.org:8000/Fernando/Fernando/29
+http://comag.rip:8000/50000294027085/23534165557770/156456
 
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 HD5
-http://cineapp.org:8000/Fernando/Fernando/30
+http://comag.rip:8000/50000294027085/23534165557770/156454
 
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 HD
-http://cineapp.org:8000/Fernando/Fernando/31
+http://comag.rip:8000/50000294027085/23534165557770/156452
 
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 HD+
-http://cineapp.org:8000/Fernando/Fernando/5817
+http://comag.rip:8000/50000294027085/23534165557770/156450
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 SD
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/25106.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 HD
