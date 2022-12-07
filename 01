@@ -128,7 +128,7 @@ https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV HD
-http://192.34.153.40:7777/Echorouk_HD.m3u8
+http://192.34.153.40:7777/Echorouk_HD/Echorouk_High.m3u8?user=sgls540839&session=13972deb1c06aefbaca057f632e92fcede72abc031c5cd1b9739369553af5d720412b8d55803f734&hlsid=HTTP_ID_42
 
 "Arabe"
 
