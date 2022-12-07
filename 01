@@ -136,6 +136,9 @@ http://192.34.153.40:7777/Echorouk_HD/Echorouk_High.m3u8?user=sgls540839&session
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/6-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC2
 http://flysilo.top:8080/live/6471662500044998/621662500044998/21089.ts
+#EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/6-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC2
+https://iptv.ipslow.com/tv166_www.elahmad.com_mbc_2/tracks-v1a1/mono.m3u8?token=c6f829eb41f5666aefde6bdd6a36c19428a7cffb-cfc2b96f364850e98c83c7aa6b392e70-1670439013-1670428213
+
 
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/17-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
