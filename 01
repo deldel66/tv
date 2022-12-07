@@ -135,8 +135,7 @@ http://192.34.153.40:7777/Echorouk_HD.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="|AR|🇸🇦 ARABE",MBC1
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_7.m3u8
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/6-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC2
-
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
+http://flysilo.top:8080/live/6471662500044998/621662500044998/21089.ts
 
 #EXTINF:0 tvg-logo="https://www.aflam4you.net/uploads/thumbs/17-1.jpg" group-title="|AR|🇸🇦 ARABE",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
@@ -159,7 +158,7 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="|AR|🇸🇦 ARABE",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MBC_Action_TV_Channel_Logo.png" group-title="|AR|🇸🇦 ARABE",MBC Action
-http://iptv.ipslow.com/tv54_www.elahmad.com_mbc_action/tracks-v1a1/mono.m3u8
+http://flysilo.top:8080/live/6471662500044998/621662500044998/21093.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/MBC_Max_2010_logo.svg" group-title="|AR|🇸🇦 ARABE",MBC Max
 http://62.182.82.104/MBC_Max/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="|AR|🇸🇦 ARABE",Rotana Cinema
