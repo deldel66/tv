@@ -200,6 +200,26 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 " Sport "
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 FR
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252209.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 FR
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252208.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 FR
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252207.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 01 HD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252239.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/BeIN_SPORTS_Max_HD_2_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 02 HD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252236.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 03 HD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252233.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 04 HD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252230.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 05 HD
+http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252228.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 06 HD
+http://comag.rip:8000/50000294027085/23534165557770/176188
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 01 HD
 http://comag.rip:8000/50000294027085/23534165557770/176199
