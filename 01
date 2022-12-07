@@ -221,17 +221,17 @@ http://cdn.wanaiptv.net:2052/live/cremtv.com/1955/252228.m3u8
 http://comag.rip:8000/50000294027085/23534165557770/176188
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 01 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 01 HD V2
 http://comag.rip:8000/50000294027085/23534165557770/176199
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/BeIN_SPORTS_Max_HD_2_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 02 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/BeIN_SPORTS_Max_HD_2_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 02 HD V2
 http://comag.rip:8000/50000294027085/23534165557770/176198
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 03 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 03 HD V2
 http://comag.rip:8000/50000294027085/23534165557770/176201
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 04 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 04 HD V2
 http://comag.rip:8000/50000294027085/23534165557770/176200
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 05 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 05 HD V2
 http://comag.rip:8000/50000294027085/23534165557770/176189
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 06 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS MAX 06 HD V2
 http://comag.rip:8000/50000294027085/23534165557770/176188
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 PREMIUM HD
@@ -258,27 +258,27 @@ http://comag.rip:8000/50000294027085/23534165557770/156454
 #EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 HD
 http://comag.rip:8000/50000294027085/23534165557770/156452
 
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 HD+
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 HD
 http://comag.rip:8000/50000294027085/23534165557770/156450
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/BEINSPORTS_1%281%29.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 01 SD
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/25106.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d5/BEINSPORTS_2.jpg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 02 SD
 http://flysilo.top:8080/live/1411661635036000/1661661635036000/20886.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 03 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59308
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 HD
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="|SP|⚽️ BEIN",BEIN SPORTS 04 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59309
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 HD
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS5.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 05 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59310
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 HD
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS6.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 06 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59311
-#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 HD
+#EXTINF:0 tvg-logo="https://epg.beinsports.com/us_sports/BS7.svg" group-title="|SP|⚽️ BEIN",BEIN SPORTS 07 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/59312
-#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 1 HD
+#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 1 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192758
-#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 2 HD
+#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 2 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192757
-#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 3 HD
+#EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 3 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192756
 
 #EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_4.jpg" group-title="|SP|⚽️ BEIN",alkass 4
