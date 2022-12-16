@@ -83,47 +83,44 @@ https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/xY39PSC/TV1-ENTV.png" group-title="|DZ|🇩🇿 ALGERIE",TV1 الأولى HD
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/htatv/PROGRAMME_NATIONAL_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/15088.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/htatv/CANAL_ALGERIE_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/677.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 الإخبارية HD
-https://cdn02.hta.dz/abr_htatv/A3_HD/htatv/A3_HD_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/671.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/4tmp0NH/tv4al.png" group-title="|DZ|🇩🇿 ALGERIE",TV4 الأمازيغية HD
-https://cdn02.hta.dz/abr_htatv/TV_4/htatv/TV_4_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/696.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/SXjJGYZ/tv5al.png" group-title="|DZ|🇩🇿 ALGERIE",TV5 القرآن الكريم HD
-https://cdn02.hta.dz/abr_htatv/TV_5/htatv/TV_5_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/697.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/fXcD722/tv6al.png" group-title="|DZ|🇩🇿 ALGERIE",TV6  الشبابية HD
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/htatv/TV_6_HD_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/698.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/hBCbJ22/tv7al.png" group-title="|DZ|🇩🇿 ALGERIE",TV7 المعرفة HD
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/htatv/TV7_ELMAARIFA_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/699.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/zSWw6QZ/tv8al.png" group-title="|DZ|🇩🇿 ALGERIE",TV8 الذاكرة HD
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/htatv/TV8_EDHAKIRA_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3969.ts
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV HD		
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/htatv/ENNAHAR_TV_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/689.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/1vH6q4L/echounws.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK NEWS HD
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/690.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV HD
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6488.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD HD
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/htatv/EL_BILAD_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/683.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV HD
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/htatv/EL_HAYAT_TV_ALGERIE_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/686.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/fnc8K1s/al24.jpg" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS HD
 https://cdn02.hta.dz/abr_htatv/AL24_News/htatv/AL24_News_240p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sVMjt0y/bahia.png" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV HD
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/htatv/Bahia_TV_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/675.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV HD
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/695.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/PMpGQk6/beur.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV HD
-https://cdn02.hta.dz/abr_htatv/Beur_TV/htatv/Beur_TV_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/676.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/j8L3hMr/djaz1.png" group-title="|DZ|🇩🇿 ALGERIE",EL DJAZAIR N1 HD
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/htatv/El_Djazair_N1_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/692.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/y5rY7zJ/heddaf.png" group-title="|DZ|🇩🇿 ALGERIE",EL HEDDAF TV HD
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Gn8kzrj/fadrj.png" group-title="|DZ|🇩🇿 ALGERIE",EL FADRJ TV HD
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_720p/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/3MdNH7S/alanis.png" group-title="|DZ|🇩🇿 ALGERIE",ALANIS TV HD	
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/687.ts
 
 
 "Arabe"
