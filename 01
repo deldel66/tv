@@ -269,15 +269,8 @@ http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192757
 #EXTINF:0 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="|SP|⚽️ BEIN",Bein Sport Premium 3 SD
 http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/192756
 
-#EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_4.jpg" group-title="|SP|⚽️ BEIN",alkass 4
-https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/hdntl=exp=1670511390~acl=%2f*~data=hdntl~hmac=1e369aa2a4229ebf2391e0addd0554a53e4eba534e1ec62c4016a4897230cb3d/chunklist_b6128000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_5.jpg" group-title="|SP|⚽️ BEIN",alkass 5
-https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/hdntl=exp=1670511182~acl=%2f*~data=hdntl~hmac=a90b90082c9730237a08b5c0b2cd5fc2b6ef18ca0e3010269df72a7310e56759/chunklist_b5128000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_6.jpg" group-title="|SP|⚽️ BEIN",alkass 6
-
-https://livebs.alkassdigital.net/hls/live/2094545/Alkass6az/hdntl=exp=1670511458~acl=%2f*~data=hdntl~hmac=8052e8cc26ead742ac5784006b4e8ee4670feedaea3e98dbd3295c20a1cf3c4b/master720.m3u8
 "France"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TF1
@@ -461,7 +454,9 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
 http://81.94.196.204/tsstreamer/France24_HD.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
-https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
+
+http://livetv.ktv.zone/17/play.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
 http://livetv.ktv.zone/118/play.m3u8
 
