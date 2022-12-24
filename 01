@@ -452,16 +452,11 @@ http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 "Info fr"
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/24/Logos_FRANCE24_RVB_2013.svg" group-title="|FR|🇫🇷 FRANCE",France24
-
 http://livetv.ktv.zone/56/play.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="|FR|🇫🇷 FRANCE",BFM TV
-
 http://livetv.ktv.zone/17/play.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="|FR|🇫🇷 FRANCE",CNEWS
 http://livetv.ktv.zone/118/play.m3u8
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="|FR|🇫🇷 FRANCE",LCI
 http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
@@ -471,9 +466,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg" group-title="|FR|🇫🇷 FRANCE",TV5 Monde
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="|FR|🇫🇷 FRANCE",FRANCE INFO
-
 http://livetv.ktv.zone/29/play.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9c/LCP_Logo.svg" group-title="|FR|🇫🇷 FRANCE",LCP
 http://livetv.ktv.zone/15/play.m3u8
 
