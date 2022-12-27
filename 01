@@ -185,7 +185,9 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.tribunejuive.info/wp-content/uploads/2022/06/download.jpeg" group-title="|AR|🇸🇦 ARABE",France 24 Ar
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
+
+http://81.94.196.205/tsstreamer/France24Arabic_HD.ts
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="|AR|🇸🇦 ARABE", Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
