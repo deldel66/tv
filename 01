@@ -38,6 +38,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_sn
 "Algerie"
 #EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD V2
 https://gintna100.tulix.tv/gin_live/canalalgerie/d77d86430f90e1d68338928243186e5d/63b3116d/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/9tsD8WP/TV2Al.png" group-title="|DZ|🇩🇿 ALGERIE",TV2 ALGERIE HD V3
+https://list.iptvcat.com/my_list/s/23b28d0a1568e64157b30c4bba14b41f.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 الإخبارية HD V3
 https://elahmad.ipslow.com/tv175_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=b25f49935ef69e9c9c7bfa06899ca70b1650c9f7-11fd43598e9444d34ebff534f870c6ed-1672605863-1672595063
 
