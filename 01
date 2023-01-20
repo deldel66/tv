@@ -291,8 +291,6 @@ http://livetv.ktv.zone/4/play.m3u8
 http://livetv.ktv.zone/105/play.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL + HD
 http://dunyaiptv.de:80/iptenjoyim/3GaALqqI2tcL/55435
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B.svg" group-title="|FR|🇫🇷 FRANCE",CANAL + HD V2
-https://stream-04.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOKiXu6zQLcaiL9sWF03XJBEC2ND60yzl6FZ7PCcVHzTa)/p/dm/3/x5gv6be/d/live-4.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_France_5.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
 http://livetv.ktv.zone/107/play.m3u8
