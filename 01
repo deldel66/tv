@@ -555,6 +555,10 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Plug_RTL_20080907.png" group-title="|BE|🇧🇪 BELGIQUE",NRJ Belgique 
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="|BE|🇧🇪 BELGIQUE",NRJ Belgique 
+
+
+httpsz://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 
 "Religion"
 
