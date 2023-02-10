@@ -552,7 +552,7 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 http://platin4k.eu/eagleiptv/SsFAljPDDi/135944?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Plug_RTL_20080907.png" group-title="|BE|🇧🇪 BELGIQUE",LN24
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/LN24_-_Logo.png" group-title="|BE|🇧🇪 BELGIQUE",LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Plug_RTL_20080907.png" group-title="|BE|🇧🇪 BELGIQUE",NRJ Belgique 
 https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
@@ -561,6 +561,7 @@ https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:iptvcat.com
 
 "Religion"
+
 
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/2bNmdwhH5iMUGU6sjNegAqFjQe2QvO3iePOorM78sQ2Y3BDER-hMtvTxm80pL_sQXMo=w240-h480-rw" group-title="🕋 Religion",Mawada tv
 http://82.212.74.98:8000/live/7821.m3u8
