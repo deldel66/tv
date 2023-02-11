@@ -21,8 +21,6 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA|🇲🇦 MAROC",M24 TV
-https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA|🇲🇦 MAROC",M24 TV V2
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1307335006_b1396000.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA|🇲🇦 MAROC",MEDI 1 MG
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
@@ -31,8 +29,6 @@ http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HD
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 
 
