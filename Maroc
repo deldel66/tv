@@ -33,12 +33,12 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30544.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/qR3CZP8/tv3al.png" group-title="|DZ|🇩🇿 ALGERIE",TV3 ALGERIE
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/16316.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV
-https://cdn1.ipslow.com/tv528_www.elahmad.com_ennahar/tracks-v1a1/mono.m3u8?token=7bb846775cf1686e8a1d088d0359d99e53784d64-f5e4ce71fa6e208ddede27c5d85f81d0-1712002737-1711991937
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30536.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV
-https://tv.ipslow.com/tv528_www.elahmad.com_samira_tv/tracks-v1a1/mono.m3u8?token=1f2fdaaac90672a093544e166dfb3e3143711779-f17a6a68d53e71f0147469e918a5dcd1-1712003461-1711992661
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15753.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
-https://live-up.akamaized.net/public/echorouktvhd/echorouktvhd.isml/fullhd25shft.mpd
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30534.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
-https://cdn1.ipslow.com/tv528_www.elahmad.com_elbilad_tv/tracks-v1a1/mono.m3u8?token=a5ac8d1f33bbeb47ac64b814cef12403bca3a754-f8b1717f0d41161e4a00f1d42c9b0c86-1712003190-1711992390
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30538.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV
 https://tv.ipslow.com/tv528_www.elahmad.com_elhayatonline/tracks-v1a1/mono.m3u8?token=5eb1eb657f948e077fdc81b6d331f4f4298db8c9-8ce570d5dad2e611cfd1563a3a3d804b-1712003290-1711992490
