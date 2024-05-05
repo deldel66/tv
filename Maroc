@@ -41,6 +41,12 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/16315.ts
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/16314.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/Logo_de_TV6_Alg%C3%A9rie_%282020%29.svg" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 6
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131482.ts
+#EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/TV8_%28Alg%C3%A9rie%29#/media/Fichier:TV8.svg" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 8
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131485.ts
+#EXTINF:0 tvg-logo="https://fr.wikipedia.org/wiki/TV8_%28Alg%C3%A9rie%29#/media/Fichier:TV8.svg" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 8v2
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131490.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/AL24_News_Logo.svg" group-title="|DZ|🇩🇿 ALL 24 NEWS 
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/142279.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/HzvjJq6/samira.png" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15753.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV
@@ -52,7 +58,10 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30532.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30538.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/114784.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrFxHwmU71lEV-e2-cfED2YfHq-DK5DdSxzrZXLe-rg&s" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30539.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Beur_TV_Chaine.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30526.ts
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C4E22AQELeU4Rz90QEg/feedshare-shrink_800/0/1639161145470?e=2147483647&v=beta&t=vqB-5WzYLoHP21nawCzMAXvVzsrZM4t9387jJdXkKsA" group-title="|DZ|🇩🇿 ALGERIE",EL WATANIA TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/124145.ts
 #EXTINF:0 tvg-logo="https://ebourse.dz/wp-content/uploads/2020/02/salam-logo.jpg" group-title="|DZ|🇩🇿 ALGERIE",salam tv 
