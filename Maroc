@@ -94,7 +94,7 @@ https://www.kool.to/play/1604410268/index.m3u8
 https://www.kool.to/play/3002907864/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TMC
 https://www.kool.to/play/2063217285/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",TFX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TFX_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",TFX
 https://www.kool.to/play/770950177/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",NRJ 12
 https://www.kool.to/play/2746577404/index.m3u8
@@ -112,9 +112,9 @@ https://www.kool.to/play/555421697/index.m3u8
 https://www.kool.to/play/3060788075/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",6ter
 https://www.kool.to/play/2625090747/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
 https://www.kool.to/play/3917198475/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE",RMC Découverte
 https://www.kool.to/play/1619816458/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",GAME ONE
