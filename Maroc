@@ -124,10 +124,10 @@ https://www.kool.to/play/337552529/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",MANGAS
 https://www.kool.to/play/1739462227/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE FHD
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70200.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX FHD
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70201.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE
+https://www.kool.to/play/2096111425/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX
+https://www.kool.to/play/2096111425/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS FHD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70202.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB FHD
