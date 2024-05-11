@@ -153,8 +153,8 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/48163.ts
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/17063.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS HD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/48164.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/17058.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI TEST
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG 
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/17061.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG HD
