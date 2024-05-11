@@ -172,3 +172,9 @@ https://www.kool.to/play/1387969098/index.m3u8
 https://www.kool.to/play/1550857115/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 9
 https://www.kool.to/play/4012945546/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1 FR
+https://www.kool.to/play/3833941143/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 FR
+https://www.kool.to/play/3380495358/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 3 FR
+https://www.kool.to/play/2795523050/index.m3u8
