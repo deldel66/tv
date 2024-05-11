@@ -154,3 +154,12 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1
 https://www.kool.to/play/2066091106/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1 FHD
+https://www.kool.to/play/1020635967/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2
+https://www.kool.to/play/2992286940/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 3
+https://www.kool.to/play/2129701954/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 4
+https://www.kool.to/play/1949672795/index.m3u8
