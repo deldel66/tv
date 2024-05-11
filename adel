@@ -141,12 +141,16 @@ https://www.kool.to/play/1739462227/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70200.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE v2
 https://www.kool.to/play/2096111425/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX
 https://www.kool.to/play/2185594322/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70202.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS v2
 https://www.kool.to/play/49070290/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Club_RTL_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
