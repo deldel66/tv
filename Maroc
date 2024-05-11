@@ -140,7 +140,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
 
-"
+""
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB FHD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70203.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG FHD
@@ -166,5 +166,5 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/48164.ts
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/17061.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/17067.ts"
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/17067.ts""
 
