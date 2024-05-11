@@ -151,3 +151,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg" group-title="|BE|🇧🇪 BELGIQUE",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|🇧🇪 SPORT",BEIN SPORT 1
+https://www.kool.to/play/2066091106/index.m3u8
