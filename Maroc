@@ -127,15 +127,17 @@ https://www.kool.to/play/337552529/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",MANGAS
 https://www.kool.to/play/1739462227/index.m3u8
 
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE
 https://www.kool.to/play/2096111425/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX
 https://www.kool.to/play/2185594322/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS FHD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS
 https://www.kool.to/play/49070290/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB TEST
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Club_RTL_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI TEST
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Rtl-plug-2023.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
