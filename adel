@@ -42,6 +42,8 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w427561591_b2128
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w1610589188_b2256000_slar.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92461.ts
 
 
 
