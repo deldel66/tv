@@ -27,7 +27,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
 https://www.kool.to/play/181430802/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC
-https://playback.akamaized.net/streams/27130247_9197096_lsi99jqrs5k032ux2cy_1/media/27130247_9197096_lsi99jqrs5k032ux2cy_1@5256000p.m3u8?dw=14400&ts=1715605200&hdnts=exp=1715780173~acl=/streams/27130247_9197096_lsi99jqrs5k032ux2cy_1/media*~hmac=73cee52384dfce88c3757c388a63accc9ccf039ee194b89c601d8ca0da9bdcf6#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
+https://playback.akamaized.net/streams/27130247_9197096_lsi99jqrs5k032ux2cy_1/media/27130247_9197096_lsi99jqrs5k032ux2cy_1@5256000p.m3u8?dw=14400&ts=1715605200&hdnts=exp=1715780173~acl=/streams/27130247_9197096_lsi99jqrs5k032ux2cy_1/media*~hmac=73cee52384dfce88c3757c388a63accc9ccf039ee194b89c601d8ca0da9bdcf6
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA|🇲🇦 MAROC",M24 TV
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1307335006_b1396000.m3u8
