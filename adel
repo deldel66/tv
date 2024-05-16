@@ -11,7 +11,7 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30524.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="|MA|🇲🇦 MAROC",ARRIADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="|MA|🇲🇦 MAROC",ARRIADIA HD
-http://zoutv.net:80/330893224326099/1593574628/14753
+https://www.kool.to/play/2599300693/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="|MA|🇲🇦 MAROC",ARRABIAA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="|MA|🇲🇦 MAROC",ARRABIAA HD
@@ -23,15 +23,15 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15771.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="|MA|🇲🇦 MAROC",ASSADISSA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="|MA|🇲🇦 MAROC",ASSADISSA HD
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15768.ts
+https://www.kool.to/play/2312710369/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15767.ts
+https://www.kool.to/play/181430802/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC
-https://playback.akamaized.net/streams/27130247_9197096_lsi99jqrs5k032ux2cy_1/media/27130247_9197096_lsi99jqrs5k032ux2cy_1@5256000p.m3u8?dw=14400&ts=1715605200&hdnts=exp=1715780173~acl=/streams/27130247_9197096_lsi99jqrs5k032ux2cy_1/media*~hmac=73cee52384dfce88c3757c388a63accc9ccf039ee194b89c601d8ca0da9bdcf6
+https://www.kool.to/play/3529235054/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
 https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA|🇲🇦 MAROC",M24 TV
@@ -116,7 +116,7 @@ https://www.kool.to/play/832300098/index.m3u8
 https://www.kool.to/play/2787084986/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",M6
-https://www.kool.to/play/3667625101/index.m3u8
+https://www.kool.to/play/2774500403/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",Arte
 https://www.kool.to/play/1131971492/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",C8
