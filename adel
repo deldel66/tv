@@ -1,9 +1,8 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER 
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716157460/ei/tCdKZp_cA6G56dsP6qyr-Ag/ip/94.104.98.24/id/SwkLV4Kfdh0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51099271/txs/51099271%2C51099272%2C51121311%2C51121312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALI6i-ZaI7alBKpYjoY11-ZXY0jjgu-_eZ8lgM-pPhFqAiEA7xRStTbEBPaJF2vJ5rdQn24bFIuUFoqBFGgdbDTbpeA%3D/file/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER v2
-https://www.ipslow.com/hls/snrt_elahmad_1.php/https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",2M HD
