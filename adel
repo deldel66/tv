@@ -152,6 +152,13 @@ https://www.kool.to/play/1739462227/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ CINEMA
+https://www.kool.to/play/3509508771/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ KIDS
+https://www.kool.to/play/1382162040/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ FAMILY
+https://www.kool.to/play/2470870537/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ DOCS
 https://www.kool.to/play/4120316246/index.m3u8
 
