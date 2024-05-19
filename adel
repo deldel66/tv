@@ -142,6 +142,8 @@ https://www.kool.to/play/2625090747/index.m3u8
 https://www.kool.to/play/3917198475/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE",RMC Découverte
 https://www.kool.to/play/1619816458/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE",Cherie 25
+https://www.kool.to/play/2698793960/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",GAME ONE
 https://www.kool.to/play/2751425727/index.m3u8
@@ -156,6 +158,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://www.kool.to/play/4151994608/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",TOUT L'HISTOIRE
 https://www.kool.to/play/1845548176/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",chase et peche
+https://www.kool.to/play/591067646/index.m3u8
 
 
 
