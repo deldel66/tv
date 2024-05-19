@@ -15,8 +15,8 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15770.ts
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15771.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="|MA|🇲🇦 MAROC",ASSADISSA HD
 https://www.kool.to/play/2312710369/index.m3u8
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts//
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7 v2
 https://cdn8.elahmad.online/tv601_www.elahmad.com_aflam_maroc/tracks-v1a1/mono.m3u8?token=9dae8eb0471f4f7075864ddf065683d8ad215161-88612dd22d5b37a2d794a6b807f94bb6-1716146983-1716136183
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
@@ -127,12 +127,12 @@ https://www.kool.to/play/755027207/index.m3u8
 https://www.kool.to/play/2608833290/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE24
 https://www.kool.to/play/764517128/index.m3u8
-""#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",BFM
-https://www.kool.to/play/908943832/index.m3u8 ""
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",BFM
+https://www.kool.to/play/908943832/index.m3u8 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",BFM v2
 https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/f836cfa96eb84ec9ba2458e936c4123d/playlist_ssaiM.m3u8
-""#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CNews
-https://www.kool.to/play/4024658871/index.m3u8""
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CNews
+https://www.kool.to/play/4024658871/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CNews v2
 https://live-b.cf.dmcdn.net/sec2(DDi5yR5_zgz54pElQz84gg-1vbb8BRG9fmpJsUbHeu92KCBX9ryELLrxQQaeAM0RCBOa-DJheHs7YmcWCVBU_l78Qdpg5R8Ta1B6B07SAOM)/dm/3/x3b68jn/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CSTAR
