@@ -106,10 +106,8 @@ https://www.kool.to/play/1762746523/index.m3u8
 https://www.kool.to/play/2780520453/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CANAL+
 https://www.kool.to/play/832300098/index.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE5
 https://www.kool.to/play/2787084986/index.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",M6
 https://www.kool.to/play/2774500403/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",Arte
@@ -140,21 +138,31 @@ https://www.kool.to/play/555421697/index.m3u8
 https://www.kool.to/play/3060788075/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",6ter
 https://www.kool.to/play/2625090747/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE",Cherie 25
+https://www.kool.to/play/2698793960/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3e/RMC_Story_logo_2018.svg" group-title="|FR|🇫🇷 FRANCE",RMC Story
 https://www.kool.to/play/3917198475/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE",RMC Découverte
 https://www.kool.to/play/1619816458/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b3/RMC_D%C3%A9couverte_logo_2017.svg" group-title="|FR|🇫🇷 FRANCE",Cherie 25
-https://www.kool.to/play/2698793960/index.m3u8
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",GAME ONE
 https://www.kool.to/play/2751425727/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",J-ONE
 https://www.kool.to/play/337552529/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",J-ONE V2
+https://www.kool.to/play/440452447/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",MANGAS
 https://www.kool.to/play/1739462227/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",MCM
+https://www.kool.to/play/319264128/index.m3u8
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",HISTOIRE
 https://www.kool.to/play/4151994608/index.m3u8
@@ -173,26 +181,39 @@ https://www.kool.to/play/924825725/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ CINEMA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|MS|🇫🇷 MUSIQUE",M6 Music
+https://www.kool.to/play/2221430726/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|MS|🇫🇷 MUSIQUE",MCM TOP
+https://www.kool.to/play/2157507414/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|MS|🇫🇷 MUSIQUE",MCM POP
+https://www.kool.to/play/1514995808/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ CINEMA
 https://www.kool.to/play/3509508771/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ KIDS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ KIDS
 https://www.kool.to/play/1382162040/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ FAMILY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ FAMILY
 https://www.kool.to/play/2470870537/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|➕CANAL",CANAL+ DOC
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ DOC
 https://www.kool.to/play/4120316246/index.m3u8
+
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70200.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE v2
 https://www.kool.to/play/2096111425/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70201.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX v2
 https://www.kool.to/play/2185594322/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70202.ts
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS v2
 https://www.kool.to/play/49070290/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Club_RTL_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB 
@@ -204,9 +225,12 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9d/Bel-rtl-2023.svg" group-title="|BE|🇧🇪 BELGIQUE",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1
-https://www.kool.to/play/2066091106/index.m3u8
 
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1
+https://www.kool.to/play/2497033165/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2
 https://www.kool.to/play/1263706962/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 v2
