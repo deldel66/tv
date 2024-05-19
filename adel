@@ -152,7 +152,7 @@ https://www.kool.to/play/1739462227/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 CANAL",GONG
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 CANAL",CANAL+ DOCS
 https://www.kool.to/play/4120316246/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA UNE
