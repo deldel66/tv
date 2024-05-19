@@ -18,6 +18,8 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15771.ts
 https://www.kool.to/play/2312710369/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7 v2
+https://cdn8.elahmad.online/tv601_www.elahmad.com_aflam_maroc/tracks-v1a1/mono.m3u8?token=9dae8eb0471f4f7075864ddf065683d8ad215161-88612dd22d5b37a2d794a6b807f94bb6-1716146983-1716136183
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
 https://www.kool.to/play/181430802/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC
