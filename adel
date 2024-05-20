@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HD
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15772.ts
+http://5.253.46.190:7001/play/a0ab/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HEVC
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92464.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",2M MONDE
