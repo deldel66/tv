@@ -79,7 +79,7 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30536.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30534.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/Echorouk_News.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOROUK NEWS HD
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30532.ts
+http://5.253.46.190:7002/play/a0az
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30538.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD V2
@@ -88,8 +88,10 @@ https://www.kool.to/play/1225034110/index.m3u8
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/114784.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrFxHwmU71lEV-e2-cfED2YfHq-DK5DdSxzrZXLe-rg&s" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30539.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Beur_TV_Chaine.png" group-title="|DZ|🇩🇿 ALGERIE",BEUR TV
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30526.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Beur_TV_Chaine.png" group-title="|DZ|🇩🇿 ALGERIE",BERBERE TV
+http://5.253.46.190:7002/play/a0ac
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Beur_TV_Chaine.png" group-title="|DZ|🇩🇿 ALGERIE",El Djazair N1
+http://5.253.46.190:7002/play/a0b5
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C4E22AQELeU4Rz90QEg/feedshare-shrink_800/0/1639161145470?e=2147483647&v=beta&t=vqB-5WzYLoHP21nawCzMAXvVzsrZM4t9387jJdXkKsA" group-title="|DZ|🇩🇿 ALGERIE",EL WATANIA TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/124145.ts
 #EXTINF:0 tvg-logo="https://ebourse.dz/wp-content/uploads/2020/02/salam-logo.jpg" group-title="|DZ|🇩🇿 ALGERIE",salam tv 
