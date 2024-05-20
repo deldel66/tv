@@ -138,7 +138,7 @@ https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-
 https://live-b.cf.dmcdn.net/sec2(JLXmkTzNBu0Rwo-sYpln0IPvfWkPpNPJtiouQbTZqDO6KV7C2Sx6gM9tF5JthEQZAq-pBz6Ld4M3fkYWSLVQcgxuL8gRS6OH9Z9fCNYXy3E)/dm/3/x3b68jn/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CSTAR
 https://www.kool.to/play/555421697/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",Franceinfo
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="|FR|🇫🇷 FRANCE",Franceinfo
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716247648/ei/AIhLZuqeJPjl6dsPhNm4cA/ip/94.104.98.24/id/Z-Nwo-ypKtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/be/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALe2eNQw2lP3e4NaQZeQruc5947Tw6wd_jH6zYGDMpf3AiEA_l3wP8lq-M8DGyq3AGB4ss1DFvcxltMtqyjSYqpaRr8%3D/file/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Gulli_logo_2023.png" group-title="|FR|🇫🇷 FRANCE",GULLI FR
 https://www.kool.to/play/2889173728/index.m3u8
