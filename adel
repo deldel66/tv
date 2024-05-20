@@ -130,14 +130,10 @@ https://www.kool.to/play/755027207/index.m3u8
 https://www.kool.to/play/2608833290/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE24
 https://www.kool.to/play/764517128/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",BFM
-https://www.kool.to/play/908943832/index.m3u8 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",BFM v2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",BFM 
 https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/f836cfa96eb84ec9ba2458e936c4123d/playlist_ssaiM.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CNews
-https://www.kool.to/play/4024658871/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CNews v2
-https://live-b.cf.dmcdn.net/sec2(DDi5yR5_zgz54pElQz84gg-1vbb8BRG9fmpJsUbHeu92KCBX9ryELLrxQQaeAM0RCBOa-DJheHs7YmcWCVBU_l78Qdpg5R8Ta1B6B07SAOM)/dm/3/x3b68jn/d/live-4.m3u8
+https://live-b.cf.dmcdn.net/sec2(JLXmkTzNBu0Rwo-sYpln0IPvfWkPpNPJtiouQbTZqDO6KV7C2Sx6gM9tF5JthEQZAq-pBz6Ld4M3fkYWSLVQcgxuL8gRS6OH9Z9fCNYXy3E)/dm/3/x3b68jn/d/live-4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",CSTAR
 https://www.kool.to/play/555421697/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Gulli_logo_2023.png" group-title="|FR|🇫🇷 FRANCE",GULLI FR
