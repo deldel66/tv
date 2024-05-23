@@ -162,6 +162,8 @@ https://www.kool.to/play/440452447/index.m3u8
 https://www.kool.to/play/1739462227/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|FR|🇫🇷 FRANCE",CANAL J
+https://www.kool.to/play/1519297453/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|FR|🇫🇷 FRANCE",MCM
 https://www.kool.to/play/319264128/index.m3u8
 
@@ -203,12 +205,20 @@ https://www.kool.to/play/1514995808/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ CINEMA
 https://www.kool.to/play/3509508771/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ serie
+https://www.kool.to/play/3134047008/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ KIDS
 https://www.kool.to/play/1382162040/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ FAMILY
 https://www.kool.to/play/2470870537/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CANAL+ DOC
 https://www.kool.to/play/4120316246/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CINE POLAR
+https://www.kool.to/play/177402656/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CINE EMOTION
+https://www.kool.to/play/3723108214/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/GONG.png" group-title="|+|➕CANAL",CINE FRISSON
+https://www.kool.to/play/1912044600/index.m3u8
 
 
 
