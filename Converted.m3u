@@ -1,0 +1,250 @@
+#EXTM3U
+#EXTINF:0 tvg-id="AlAoula.ma" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HD
+http://5.253.46.190:7001/play/a0ab/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HEVC
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92464.ts
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="|MA|🇲🇦 MAROC",2M MONDE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",2M HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30524.ts
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",ARRIADIA HD
+https://www.kool.to/play/2599300693/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",ARRABIAA HD
+http://5.253.46.190:7001/play/a0ae/index.m3u8
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="|MA|🇲🇦 MAROC",AL MAGHRIBIA HD
+http://5.253.46.190:7001/play/a0af/index.m3u8
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="|MA|🇲🇦 MAROC",ASSADISSA HD
+http://5.253.46.190:7001/play/a0ag/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",AFLAM 7
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",AFLAM 7 v2
+https://cdn8.elahmad.online/tv601_www.elahmad.com_aflam_maroc/tracks-v1a1/mono.m3u8?token=9dae8eb0471f4f7075864ddf065683d8ad215161-88612dd22d5b37a2d794a6b807f94bb6-1716146983-1716136183
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
+https://www.kool.to/play/181430802/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",TELE MAROC
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",CHADA TV
+https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",M24 TV
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1307335006_b1396000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",MEDI 1 MG
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w427561591_b2128000_slar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",MEDI 1 AR
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w1610589188_b2256000_slar.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
+http://5.253.46.190:7001/play/a0ac/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92461.ts
+
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ENTV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131481.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ENTV v2
+https://www.kool.to/play/3144574179/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ENTV v3
+https://www.kool.to/play/1327579376/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 2 HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30544.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 2
+https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 3
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/16316.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 3 v2
+https://www.kool.to/play/903943056/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 4
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/16315.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 4 v2
+https://www.kool.to/play/2277625728/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 5
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/16314.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 6
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131482.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 8
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131485.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 8v2
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/131490.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALGERIE 9
+https://www.kool.to/play/4290650910/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",AL24 NEWS
+http://5.253.46.190:7002/play/a0b6
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15753.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",SAMIRA TV V2
+https://www.kool.to/play/1284273912/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30536.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30534.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ECHOROUK NEWS HD
+http://5.253.46.190:7002/play/a0az
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30538.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD V2
+https://www.kool.to/play/1225034110/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/114784.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30539.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",BERBERE TV
+http://5.253.46.190:7002/play/a0ac
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",El Djazair N1
+http://5.253.46.190:7002/play/a0b5
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",EL WATANIA TV
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/124145.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",salam tv
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/68623.ts
+#EXTINF:0 tvg-id="ext" group-title="|DZ|🇩🇿 ALGERIE",ALFAJER
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/124108.ts
+
+#EXTINF:0 tvg-id="TF1.fr" group-title="|FR|🇫🇷 FRANCE",TF1
+https://www.kool.to/play/2018708974/index.m3u8
+#EXTINF:0 tvg-id="France2.fr" group-title="|FR|🇫🇷 FRANCE",FRANCE2
+https://www.kool.to/play/1762746523/index.m3u8
+#EXTINF:0 tvg-id="France3.fr" group-title="|FR|🇫🇷 FRANCE",FRANCE3
+https://www.kool.to/play/2780520453/index.m3u8
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="|FR|🇫🇷 FRANCE",CANAL+
+https://www.kool.to/play/832300098/index.m3u8
+#EXTINF:0 tvg-id="France5.fr" group-title="|FR|🇫🇷 FRANCE",FRANCE5
+https://www.kool.to/play/2787084986/index.m3u8
+#EXTINF:0 tvg-id="M6.fr" group-title="|FR|🇫🇷 FRANCE",M6
+https://www.kool.to/play/2774500403/index.m3u8
+#EXTINF:0 tvg-id="ARTE.de" group-title="|FR|🇫🇷 FRANCE",Arte
+https://www.kool.to/play/1131971492/index.m3u8
+#EXTINF:0 tvg-id="C8.fr" group-title="|FR|🇫🇷 FRANCE",C8
+https://www.kool.to/play/2407182139/index.m3u8
+#EXTINF:0 tvg-id="W9.fr" group-title="|FR|🇫🇷 FRANCE",W9
+https://www.kool.to/play/665307335/index.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="|FR|🇫🇷 FRANCE",TMC
+https://www.kool.to/play/2063217285/index.m3u8
+#EXTINF:0 tvg-id="TFX.fr" group-title="|FR|🇫🇷 FRANCE",TFX
+https://www.kool.to/play/770950177/index.m3u8
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="|FR|🇫🇷 FRANCE",NRJ 12
+https://www.kool.to/play/2746577404/index.m3u8
+#EXTINF:0 tvg-id="LCP.fr" group-title="|FR|🇫🇷 FRANCE",LCP
+https://www.kool.to/play/755027207/index.m3u8
+#EXTINF:0 tvg-id="France4.fr" group-title="|FR|🇫🇷 FRANCE",FRANCE4
+https://www.kool.to/play/2608833290/index.m3u8
+#EXTINF:0 tvg-id="france24" group-title="|FR|🇫🇷 FRANCE",FRANCE24
+https://www.kool.to/play/764517128/index.m3u8
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="|FR|🇫🇷 FRANCE",BFM
+https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/f836cfa96eb84ec9ba2458e936c4123d/playlist_ssaiM.m3u8
+#EXTINF:0 tvg-id="CNews.fr" group-title="|FR|🇫🇷 FRANCE",CNews
+https://www.kool.to/play/2166400255/index.m3u8
+#EXTINF:0 tvg-id="CStar.fr" group-title="|FR|🇫🇷 FRANCE",CSTAR
+https://www.kool.to/play/555421697/index.m3u8
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="|FR|🇫🇷 FRANCE",Franceinfo
+https://www.kool.to/play/972327898/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|FR|🇫🇷 FRANCE",GULLI FR
+https://www.kool.to/play/2889173728/index.m3u8
+#EXTINF:0 tvg-id="6ter.fr" group-title="|FR|🇫🇷 FRANCE",6ter
+https://www.kool.to/play/1277148681/index.m3u8
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="|FR|🇫🇷 FRANCE",Cherie 25
+https://www.kool.to/play/2698793960/index.m3u8
+#EXTINF:0 tvg-id="RMCStory.fr" group-title="|FR|🇫🇷 FRANCE",RMC Story
+https://www.kool.to/play/3917198475/index.m3u8
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|FR|🇫🇷 FRANCE",RMC Découverte
+https://www.kool.to/play/1619816458/index.m3u8
+#EXTINF:0 tvg-id="GameOne.fr" group-title="|FR|🇫🇷 FRANCE",GAME ONE
+https://www.kool.to/play/2751425727/index.m3u8
+#EXTINF:0 tvg-id="JOne.fr" group-title="|FR|🇫🇷 FRANCE",J-ONE
+https://www.kool.to/play/337552529/index.m3u8
+#EXTINF:0 tvg-id="JOne.fr" group-title="|FR|🇫🇷 FRANCE",J-ONE V2
+https://www.kool.to/play/440452447/index.m3u8
+#EXTINF:0 tvg-id="Mangas.fr" group-title="|FR|🇫🇷 FRANCE",MANGAS
+https://www.kool.to/play/1739462227/index.m3u8
+#EXTINF:0 tvg-id="Gong.fr" group-title="|FR|🇫🇷 FRANCE",GONG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="|FR|🇫🇷 FRANCE",CANAL J
+https://www.kool.to/play/1519297453/index.m3u8
+#EXTINF:0 tvg-id="mcm-top" group-title="|FR|🇫🇷 FRANCE",MCM
+https://www.kool.to/play/319264128/index.m3u8
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|FR|🇫🇷 FRANCE",HISTOIRE
+https://www.kool.to/play/4151994608/index.m3u8
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="|FR|🇫🇷 FRANCE",Toute l'Histoire
+https://www.kool.to/play/1845548176/index.m3u8
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|FR|🇫🇷 FRANCE",Chasse & Pêche
+https://www.kool.to/play/591067646/index.m3u8
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|FR|🇫🇷 FRANCE",Ushuaïa TV
+https://www.kool.to/play/2461589848/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="|FR|🇫🇷 FRANCE",National Geographic
+https://www.kool.to/play/2837193924/index.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="|FR|🇫🇷 FRANCE",National Geographic WILD
+https://www.kool.to/play/1404286602/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="|FR|🇫🇷 FRANCE",Discovery
+https://www.kool.to/play/924825725/index.m3u8
+#EXTINF:0 tvg-id="PlanetePlusHD.ge" group-title="|FR|🇫🇷 FRANCE",Planète+
+https://www.kool.to/play/3726625760/index.m3u8
+
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="|MS|🎧 MUSIQUE",M6 Music
+https://www.kool.to/play/2221430726/index.m3u8
+#EXTINF:0 tvg-id="mcm-top" group-title="|MS|🎧 MUSIQUE",MCM TOP
+https://www.kool.to/play/2157507414/index.m3u8
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="|MS|🎧 MUSIQUE",MCM POP
+https://www.kool.to/play/1514995808/index.m3u8
+
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="|+|➕CANAL",CANAL+ CINEMA
+https://www.kool.to/play/3509508771/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|+|➕CANAL",CANAL+ SERIE
+https://www.kool.to/play/3134047008/index.m3u8
+#EXTINF:0 tvg-id="Canal+Kids.fr" group-title="|+|➕CANAL",CANAL+ KIDS
+https://www.kool.to/play/1382162040/index.m3u8
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="|+|➕CANAL",CANAL+ FAMILY
+https://www.kool.to/play/2470870537/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|+|➕CANAL",CANAL+ DOC
+https://www.kool.to/play/4120316246/index.m3u8
+#EXTINF:0 tvg-id="CinePolar.fr" group-title="|+|➕CANAL",CINE POLAR
+https://www.kool.to/play/177402656/index.m3u8
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="|+|➕CANAL",CINE EMOTION
+https://www.kool.to/play/3723108214/index.m3u8
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="|+|➕CANAL",CINE FRISSON
+https://www.kool.to/play/1912044600/index.m3u8
+
+#EXTINF:0 tvg-id="LaUne.be" group-title="|BE|🇧🇪 BELGIQUE",LA UNE
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70200.ts
+#EXTINF:0 tvg-id="LaUne.be" group-title="|BE|🇧🇪 BELGIQUE",LA UNE v2
+https://www.kool.to/play/2096111425/index.m3u8
+#EXTINF:0 tvg-id="LaDeux.be" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX
+https://www.kool.to/play/2185594322/index.m3u8
+#EXTINF:0 tvg-id="LaTrois.be" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70202.ts
+#EXTINF:0 tvg-id="LaTrois.be" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS v2
+https://www.kool.to/play/49070290/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
+#EXTINF:0 tvg-id="RTLTVI.be" group-title="|BE|🇧🇪 BELGIQUE",RTL TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|BE|🇧🇪 BELGIQUE",RTL PLUG
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|BE|🇧🇪 BELGIQUE",BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 1
+https://www.kool.to/play/2497033165/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 2
+https://www.kool.to/play/1263706962/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 v2
+https://www.kool.to/play/442151982/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 3
+https://www.kool.to/play/31874818/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 4
+https://www.kool.to/play/1949672795/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 5
+https://www.kool.to/play/3097470405/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 6
+https://www.kool.to/play/907059750/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 7
+https://www.kool.to/play/1387969098/index.m3u8
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 8
+https://www.kool.to/play/1550857115/index.m3u8
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="|SP|⚽️ SPORT",BEIN SPORT 9
+https://www.kool.to/play/4012945546/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|SP|⚽️ SPORT",BEIN SPORT XTRA 1
+https://www.kool.to/play/1574391272/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="|SP|⚽️ SPORT",BEIN SPORT XTRA 2
+https://www.kool.to/play/3545778699/index.m3u8
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|SP|⚽️ SPORT",BEIN SPORT 1 FR
+https://www.kool.to/play/3833941143/index.m3u8
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 FR
+https://www.kool.to/play/3380495358/index.m3u8
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|SP|⚽️ SPORT",BEIN SPORT 3 FR
+https://www.kool.to/play/2795523050/index.m3u8
+
