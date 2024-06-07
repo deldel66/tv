@@ -255,8 +255,6 @@ https://www.kool.to/play/3428561083/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA DEUX
 https://www.kool.to/play/4185021864/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS
-http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/70202.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TF1_logo_2006.svg" group-title="|BE|🇧🇪 BELGIQUE",LA TROIS v2
 https://www.kool.to/play/2866202423/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Club_RTL_logo.svg" group-title="|BE|🇧🇪 BELGIQUE",RTL CLUB 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
