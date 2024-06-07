@@ -93,6 +93,8 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30538.ts
 https://www.kool.to/play/1057827735/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/114784.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV HD
+https://cdn8.elahmad.online/tv601_www.elahmad.com_elhayatonline/tracks-v1a1/mono.m3u8?token=97b85bbc189c5197a0673d42dff6a7a22d843690-a7af61cb15c7ca23a11d4cb24bb940e6-1717770692-1717759892
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrFxHwmU71lEV-e2-cfED2YfHq-DK5DdSxzrZXLe-rg&s" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30539.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Beur_TV_Chaine.png" group-title="|DZ|🇩🇿 ALGERIE",BERBERE TV
