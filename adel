@@ -81,6 +81,8 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15753.ts
 https://www.kool.to/play/290768469/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30536.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/pPwR2Tc/ennahar.png" group-title="|DZ|🇩🇿 ALGERIE",ENNAHAR TV HD
+https://cdn7.elahmad.online/tv601_www.elahmad.com_ennahar/tracks-v1a1/mono.m3u8?token=aa04bf2158858035f76c8f086b6050a341e477f2-e3e5037c6b63b5d1c6b9821645877681-1717767416-1717756616
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30534.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/Echorouk_News.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOROUK NEWS HD
