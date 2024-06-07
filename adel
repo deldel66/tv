@@ -270,32 +270,44 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1
-https://www.kool.to/play/2497033165/index.m3u8
+https://www.kool.to/play/1564627444/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1 HD
+https://www.kool.to/play/2155997443/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2
-https://www.kool.to/play/1263706962/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 v2
-https://www.kool.to/play/442151982/index.m3u8
+https://www.kool.to/play/235859680/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 HD
+https://www.kool.to/play/2691909189/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 3
-https://www.kool.to/play/31874818/index.m3u8
+https://www.kool.to/play/2880773158/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 3 HD
+https://www.kool.to/play/953732566/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 4
-https://www.kool.to/play/1949672795/index.m3u8
+https://www.kool.to/play/1617035157/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 4 HD
+https://www.kool.to/play/1555669023/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 5
-https://www.kool.to/play/3097470405/index.m3u8
+https://www.kool.to/play/80472057/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 5 HD
+https://www.kool.to/play/1118788924/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 6
-https://www.kool.to/play/907059750/index.m3u8
+https://www.kool.to/play/2319769626/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 6
+https://www.kool.to/play/1917814937/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 7
-https://www.kool.to/play/1387969098/index.m3u8
+https://www.kool.to/play/4008638582/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 8
-https://www.kool.to/play/1550857115/index.m3u8
+https://www.kool.to/play/2681139752/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 9
-https://www.kool.to/play/4012945546/index.m3u8
+https://www.kool.to/play/1399124662/index.m3u8
 #EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f895%2fbein-sports-xtra-1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT XTRA 1
 https://www.kool.to/play/1574391272/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="|SP|⚽️ SPORT",BEIN SPORT XTRA 2
-https://www.kool.to/play/3545778699/index.m3u8
+https://www.kool.to/play/4222014572/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 1 FR
-https://www.kool.to/play/3833941143/index.m3u8
+https://www.kool.to/play/2481320680/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 2 FR
-https://www.kool.to/play/3380495358/index.m3u8
+https://www.kool.to/play/75819853/index.m3u8u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 3 FR
-https://www.kool.to/play/2795523050/index.m3u8
+https://www.kool.to/play/2683082226/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="|SP|⚽️ SPORT",BEIN SPORT 3 FR HD
+https://www.kool.to/play/2221938935/index.m3u8
