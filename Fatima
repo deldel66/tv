@@ -20,6 +20,8 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15949.ts
 http://5.253.46.190:7001/play/a0ag/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7 V2
+http://152.89.62.76:8880/29us10233n01/4etfr4w23/27371
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
 https://www.kool.to/play/1460198079/index.m3u8
