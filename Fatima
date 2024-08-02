@@ -1,1 +1,40 @@
+#EXTM3U 
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HD
+http://152.89.62.76:8880/29us10233n01/4etfr4w23/27492
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",Al AOULA INTER HEVC
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92464.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",2M MONDE
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/dp5Z2dh/2m.png" group-title="|MA|🇲🇦 MAROC",2M HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30524.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" group-title="|MA|🇲🇦 MAROC",ARRIADIA HD
+https://www.kool.to/play/662901861/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/k8gk0Hb/arrabiaa.png" group-title="|MA|🇲🇦 MAROC",ARRABIAA HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15770.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="|MA|🇲🇦 MAROC",AL MAGHRIBIA
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15771.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/5kp5CmP/almaghribia.png" group-title="|MA|🇲🇦 MAROC",AL MAGHRIBIA HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15949.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/Gxn4XrB/assadissa.png" group-title="|MA|🇲🇦 MAROC",ASSADISSA HD
+http://5.253.46.190:7001/play/a0ag/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="|MA|🇲🇦 MAROC", AFLAM 7
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/15766.ts
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/rmRc08Z/tamazight.png" group-title="|MA|🇲🇦 MAROC",TAMAZIGHT HD
+https://www.kool.to/play/1460198079/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rfwFbLk/telemaroc.gif" group-title="|MA|🇲🇦 MAROC",TELE MAROC
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="|MA|🇲🇦 MAROC",CHADA TV
+https://edge13.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Jx8GW4D/m24.png" group-title="|MA|🇲🇦 MAROC",M24 TV
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1307335006_b1396000.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA|🇲🇦 MAROC",MEDI 1 MG
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w427561591_b2128000_slar.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/rQJcGTc/medi1tv.png" group-title="|MA|🇲🇦 MAROC",MEDI 1 AR
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w1610589188_b2256000_slar.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE
+http://5.253.46.190:7001/play/a0ac/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE HD
+http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92461.ts
 
