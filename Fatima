@@ -39,4 +39,5 @@ https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_w1610589188_b225
 http://5.253.46.190:7001/play/a0ac/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/n0Pwp2S/alaoulainter.png" group-title="|MA|🇲🇦 MAROC",AL AOULA LAAYOUNE HD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/92461.ts
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/fRWaDyFh.png" group-title="|MA|🇲🇦 MAROC",MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
