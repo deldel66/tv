@@ -1,0 +1,11 @@
+[chaker@chaker-yoga livedrama]$ curl -X GET "https://hls.muchasgraciasaficion2.one/hls/b27057ebdcc0edb51f694ac9fe4aaa19/index.m3u8" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" -H "referer: https://www.koor-alive.live/p2p?live=live&channel=b27057ebdcc0edb51f694ac9fe4aaa19"
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1151
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.667,
+1713470481100.ts
+#EXTINF:6.666,
+1713470487300.ts
+#EXTINF:6.667,
+1713470494100.ts
