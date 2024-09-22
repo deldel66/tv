@@ -84,8 +84,13 @@ http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30536.ts
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30534.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/yQmcHjz/echourouk.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOUROUK T V2 
+https://lb2.elahmad.com/tv705_www.elahmad.com_echorouk_tv/index.m3u8?token=b804bcd0657d26668db328541674defe7372f0fd-bb2e59f13a6135af17417b2b08c5662a-1727009849-1726999049
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/Echorouk_News.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOROUK NEWS HD
 http://5.253.46.190:7002/play/a0az
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e1/Echorouk_News.png" group-title="|DZ|🇩🇿 ALGERIE",ECHOROUK NEWS HD V2
+https://lb2.elahmad.com/tv705_www.elahmad.com_echorouk_news/index.m3u8?token=7b957cf02237585162af467140fbed1db91765cd-8422852a25792cfd7a7189f3142b9d6b-1727010200-1726999400
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30538.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/ByPHXnt/bilad.png" group-title="|DZ|🇩🇿 ALGERIE",EL BILAD V2
@@ -93,7 +98,7 @@ https://www.kool.to/play/1057827735/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/114784.ts
 #EXTINF:0 tvg-logo="https://i.ibb.co/7Q4Zv2v/elhayat.png" group-title="|DZ|🇩🇿 ALGERIE",EL HAYAT TV HD
-https://cdn8.elahmad.online/tv601_www.elahmad.com_elhayatonline/tracks-v1a1/mono.m3u8?token=97b85bbc189c5197a0673d42dff6a7a22d843690-a7af61cb15c7ca23a11d4cb24bb940e6-1717770692-1717759892
+https://lb2.elahmad.com/tv705_www.elahmad.com_elhayatonline/index.m3u8?token=357966c1eed51545c0de120d3124d72be10a44d1-9a025fb8f37d43d110899e58bee99ac3-1727010342-1726999542
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrFxHwmU71lEV-e2-cfED2YfHq-DK5DdSxzrZXLe-rg&s" group-title="|DZ|🇩🇿 ALGERIE",BAHIA TV
 http://tv.pro-ott.com:25443/live/V5OMGJAJGmPN/rGuG6mUFwu/30539.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Beur_TV_Chaine.png" group-title="|DZ|🇩🇿 ALGERIE",BERBERE TV
